@@ -1,0 +1,171 @@
+VENDOR INFORMATION MEMORANDUM
+CONFIDENTIAL — FOR AUTHORISED RECIPIENTS ONLY
+
+Target Asset:       8–14 Avenue des Ternes, Paris 17e
+Transaction Type:   Forward-purchase of completed office development
+Vendor:             Ternex Développement SAS
+Date:               February 2026
+
+─────────────────────────────────────────────────────────────────────────────
+1. EXECUTIVE SUMMARY
+─────────────────────────────────────────────────────────────────────────────
+
+Ternex Développement SAS ("the Vendor") is offering the forward-purchase of
+a newly completed, Class-A office building located at 8–14 Avenue des Ternes,
+Paris 17e. The asset comprises approximately 14,200 sqm of Gross Leasable
+Area (GLA) across 10 floors (B+R+8) with 112 basement parking spaces.
+
+The building received its Permis de Construire in March 2023 and achieved
+Déclaration Attestant l'Achèvement et la Conformité des Travaux (DAACT) in
+November 2025. Practical Completion was declared January 15, 2026.
+
+HEADLINE METRICS
+  Total GLA:              14,200 sqm
+  Parking:                112 spaces (basement levels B1 & B2)
+  Asking Price:           EUR 127.5 million
+  Implied Cap Rate:       5.10% (passing; 5.25% ERV)
+  Passing Rent (annualised): EUR 6.50 million
+  ERV:                    EUR 6.70 million per annum
+  WAULT:                  7.2 years (to break); 9.4 years (to expiry)
+  Occupancy:              91% let (2 floors vacant — floors 3 & 4)
+  EPC Rating:             A (label BBC-Effinergie Rénovation)
+  HQE Certification:      "Excellent" (certified July 2025)
+
+─────────────────────────────────────────────────────────────────────────────
+2. LOCATION & MICRO-MARKET
+─────────────────────────────────────────────────────────────────────────────
+
+The asset is situated in the western fringe of Paris CBD, proximate to the
+Arc de Triomphe business cluster. The immediate micro-market (Paris 17e /
+Ternes) commands prime headline rents of EUR 520–580/sqm/year for
+refurbished Grade-A stock.
+
+Transport: 4 minutes walk to Ternes (Metro Line 2); direct RER C access
+via Neuilly-Porte Maillot (7 minutes walk). Immediate motorway access via
+Porte Maillot (A14).
+
+MARKET CONTEXT (Q4 2025 — Cushman & Wakefield estimate)
+  Paris CBD Grade-A vacancy:        5.8%
+  Paris 17e sub-market vacancy:     7.4%
+  12-month take-up (Paris CBD):     285,000 sqm
+  Average incentive packages:       12–15 months rent-free per 3-year lease
+  Yield compression trend:          Stable to slight softening (+10 bps YOY)
+
+─────────────────────────────────────────────────────────────────────────────
+3. TENANCY SCHEDULE
+─────────────────────────────────────────────────────────────────────────────
+
+Floor  Tenant               Area (sqm)  Rent (EUR/sqm/yr)  Lease Start  Lease Expiry  Break
+──────────────────────────────────────────────────────────────────────────────────────────────
+  1    Meridian Capital SA   1,380       495                Jan-26       Dec-35        Dec-32
+  2    Olyrix Consulting     1,390       490                Feb-26       Jan-34        Jan-31
+  3    VACANT                1,410       ERV: 510           —            —             —
+  4    VACANT                1,420       ERV: 510           —            —             —
+  5    Synektia SARL         1,400       500                Dec-25       Nov-33        Nov-30
+  6    Axelon Finance        1,400       505                Jan-26       Dec-34        Dec-31
+  7    Perenne Tech          1,400       510                Mar-24       Feb-33        Feb-30
+  8    Vectis Legal          1,400       505                Jan-26       Dec-35        Dec-32
+ PK    Parking (112 spaces)  n/a         EUR 200/sp/month   Various      Various       Various
+
+Anchor tenant: Axelon Finance (Floors 5+6 combined; option to take Floor 4
+at ERV if vacant by Apr-26).
+
+Service charges (charges locatives): EUR 62/sqm/yr.
+Rental indexation: ILAT (French office rental index), annually.
+
+─────────────────────────────────────────────────────────────────────────────
+4. PHYSICAL & TECHNICAL
+─────────────────────────────────────────────────────────────────────────────
+
+  Year Built:         2023–2025 (new build)
+  Structure:          Reinforced concrete frame; curtain-wall glazing
+  Floor Plates:       ~1,380–1,420 sqm NLA per floor; column-free central cores
+  Ceiling Height:     2.85m clear on office floors; 3.2m on ground
+  HVAC:              4-pipe fan coil units; full BMS (Siemens Desigo CC)
+  DX Cooling:         Adiabatic free-cooling; no standalone CRACs
+  IT Infrastructure: Dual-route fibre entry points; 2N UPS capacity in server rooms
+  Lifts:              4 passenger (16-person) + 1 service
+  Accessibility:      Full ERP compliance (Établissements Recevant du Public)
+  Rooftop:            Solar PV (128 kWp); green roof (sedum) on podium
+
+SUSTAINABILITY
+  - BREEAM "Very Good" (targeting "Excellent" re-assessment post-fit-out completion)
+  - French Décret Tertiaire compliant to 2030 trajectory
+  - EV charging: 22 kW points on 30% of parking spaces (regulatory minimum met)
+  - Energy Performance Contract with Engie (fixed fee through 2030)
+
+─────────────────────────────────────────────────────────────────────────────
+5. FINANCIAL SUMMARY
+─────────────────────────────────────────────────────────────────────────────
+
+PASSING INCOME
+  Office rent (let floors):       EUR 5,875,000 pa
+  Parking income:                 EUR 268,800 pa
+  Vendor top-up (vacant floors):  EUR 356,400 pa (2 yrs guaranteed by Vendor)
+  GROSS PASSING INCOME:           EUR 6,500,200 pa
+
+ERV SCENARIO (when vacant floors let at ERV)
+  Floors 3–4 at EUR 510/sqm:     +EUR 1,444,200 pa (incremental)
+  POTENTIAL GROSS INCOME:         EUR 7,944,400 pa
+
+NON-RECOVERABLE COSTS (Purchaser estimate)
+  Asset management fee (0.5%):  EUR 637,500 pa
+  Insurance (non-recoverable):  EUR 45,000 pa
+  Void costs (F3/F4):           EUR 145,000 pa
+  TOTAL NRI DEDUCTIONS:         EUR 827,500 pa
+
+NET OPERATING INCOME (PASSING):  EUR 5,672,700 pa
+
+─────────────────────────────────────────────────────────────────────────────
+6. VENDOR & LEGAL
+─────────────────────────────────────────────────────────────────────────────
+
+  Vendor entity: Ternex Développement SAS (SAS, share capital EUR 12m)
+  Beneficial owner: Patrice Houillon (83%) + Ternex Holding SA (17%)
+  Corporate domicile: 42 Rue du Faubourg Saint-Honoré, Paris 8e
+  Completion structure: Asset deal (vente en l'état futur d'achèvement sold post-DAACT)
+  Notaire: Maître Leblanc-Rochard, Paris (appointed for both parties)
+
+KNOWN ENCUMBRANCES
+  - Mortgage (hypothèque): BNP Paribas Real Estate Finance (EUR 68m senior);
+    will be discharged at completion from sale proceeds.
+  - Servitude de passage: pedestrian easement on ground-floor arcade
+    (registered, non-onerous to lessor, standard for the neighbourhood).
+  - Pre-emption right: City of Paris (droit de préemption urbain — DPU);
+    notification dispatched February 3, 2026 (60-day response window).
+
+TITLE STATUS: Clean (subject to DPU lapse). No litigation.
+
+─────────────────────────────────────────────────────────────────────────────
+7. TRANSACTION PROCESS
+─────────────────────────────────────────────────────────────────────────────
+
+  Process:      Controlled bilateral (not open market)
+  Timeline:
+    Information memo issued:      Feb 18, 2026
+    Indicative bids due:          Mar 14, 2026
+    Shortlist & management calls: Mar 21–28, 2026
+    Final bids due:               Apr 25, 2026
+    Exclusivity target:           May 9, 2026
+    SPA signing:                  May 30, 2026
+    Completion:                   Jun 27, 2026
+
+  Asking Price: EUR 127,500,000 (net vendor; no deductions)
+  Deposit on signing: 10% held by Notaire in escrow
+
+Interested parties should submit indicative bids and any due diligence queries
+to the exclusive sell-side advisor:
+
+  Castellan & Foret Advisory SAS
+  Attn: Dominique Ferré / Amélie Vasquez
+  Tel: +33 1 44 77 88 00
+  Email: ddprocess@castellanforet.fr
+
+─────────────────────────────────────────────────────────────────────────────
+DISCLAIMER
+─────────────────────────────────────────────────────────────────────────────
+
+This document is provided for information purposes only and does not
+constitute an offer, a contract or financial advice. Figures are unaudited.
+Recipients must conduct their own independent due diligence. Ternex
+Développement SAS and Castellan & Foret Advisory SAS accept no liability.

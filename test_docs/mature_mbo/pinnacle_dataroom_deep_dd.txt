@@ -1,0 +1,240 @@
+════════════════════════════════════════════════════════════════════════
+                   FULL DATAROOM — DEEP DD PACKAGE
+                  Pinnacle Precision Engineering Ltd.
+           Compiled for Investor Deep Due Diligence & IC Memo
+                          January 2026
+════════════════════════════════════════════════════════════════════════
+
+SECTION A: QUALITY OF EARNINGS (QoE) PREP MATERIALS
+────────────────────────────────────────────────────
+
+A.1 Revenue Bridge — FY2024A to FY2025A (Detail)
+  Revenue Component          FY2024A    FY2025A    Change    Driver
+  ──────────────────────────────────────────────────────────────────
+  Rolls-Royce Trent XWB      £12,400    £13,100    +£700    Rate increase
+  Rolls-Royce LTSA work      £1,800     £2,600     +£800    New scope
+  Airbus/Spirit A320neo      £9,200     £9,800     +£600    Production ramp
+  Airbus other                £500       £400       -£100    Program end
+  BAE Systems (defense)       £6,370     £5,456     -£914    MOD budget delay
+  Smith+Nephew ortho          £5,800     £7,500     +£1,700  New knee program
+  Safran LEAP components      £5,100     £5,800     +£700    Qualification
+  GE Aerospace                £3,500     £4,100     +£600    New parts
+  Medtronic instruments       £2,400     £3,400     +£1,000  Volume increase
+  Other customers             £16,630    £16,044    -£586    Natural attrition
+  ──────────────────────────────────────────────────────────────────
+  TOTAL                       £63,700    £68,200    +£4,500  +7.1% growth
+
+  Revenue quality assessment:
+    Recurring/contracted:     72% (LTA frameworks + repeat purchase orders)
+    New wins (2025):          15% (new scope on existing customers)
+    At-risk / one-time:       13% (defense delays, other attrition)
+  
+  ⚠ BAE defense decline of £914K is budget timing, not loss of contract.
+    BAE has confirmed additional orders for FY2026 (£6.7M forecast).
+    However, MOD procurement delays are a recurring pattern.
+
+A.2 EBITDA Adjustment Detail & Verification Status
+  Adjustment                  Amount    Verifiable?   Evidence
+  ──────────────────────────────────────────────────────────────
+  Owner excess compensation   £1,200K   YES           Employment contracts;
+                                                       market salary survey
+                                                       shows £500K market rate
+  Related-party rent          £400K     YES           Third-party valuation
+                                                       confirms £650K market
+  One-off legal (patent)      £600K     YES           Legal invoices; case
+                                                       settlement agreement
+  Facility move costs         £400K     PARTIAL       Some costs are recurring
+                                                       (£150K of £400K is
+                                                       ongoing Meadowhall fit-out)
+  ──────────────────────────────────────────────────────────────
+  Total adjustments           £2,600K
+  Verified adjustments        £2,200K   (85% verified)
+  Disputed/partial            £400K     (facilities — £150K should be
+                                         treated as recurring capex)
+
+  ⚠ Recommend adjusted EBITDA of £14,472K (vs. seller's £14,800K).
+    Difference: £328K facility cost that should not be added back.
+    Impact on entry multiple: 7.1x → 7.25x (marginal).
+
+A.3 Working Capital Normalization
+  (£ thousands)              FY2023A   FY2024A   FY2025A   Normalized
+  ──────────────────────────────────────────────────────────────────
+  Inventories                5,450     6,340     7,580     6,400
+  Trade receivables          8,200     8,760     9,540     8,800
+  Trade payables             (4,200)   (4,580)   (5,040)   (4,600)
+  Accruals                   (1,800)   (2,100)   (2,400)   (2,100)
+  Net Working Capital        7,650     8,420     9,680     8,500
+  NWC % revenue              13.1%     13.2%     14.2%     12.5%*
+
+  * Normalized NWC target based on 3-year average excluding FY2025
+    medical inventory build-up (one-time stocking for new S+N program).
+
+  Completion accounts adjustment: Seller to deliver £9,680K on closing.
+  Target NWC in SPA: £8,500K ± £500K band.
+  Excess WC at close: £1,180K → Price adjustment (dollar-for-dollar).
+  
+  ⚠ NWC peg of £8,500K is below current level. Seller may resist.
+    Negotiation point: Agree £9,000K with ±£750K band as compromise.
+
+────────────────────────────────────────────
+
+SECTION B: CONTRACT SUMMARIES
+─────────────────────────────
+
+B.1 Rolls-Royce Long-Term Agreement (LTA) — Full Summary
+
+  Agreement date:      15 March 2024
+  Term:                5 years (to 14 March 2029)
+  Renewal:             Auto-renew for 2-year periods unless 12-month notice
+  
+  Scope:
+    Part families:     Turbine disc forgings (machining), fan case components,
+                       LP shaft components, bearing housings
+    Programs:          Trent XWB, Trent 7000, Trent 1000 (aftermarket)
+    Annual value:      £13-16M (volume-dependent, firm orders + options)
+  
+  Pricing:
+    Base rates:        Fixed for Year 1; annual escalation = CPI - 3%
+    Material pass-through: Titanium and Inconel at actual cost + 8% handling
+    Cost-down:         3% annual productivity saving required from Year 2
+    Raw material risk: Shared (PPE bears first 5% variance, Rolls absorbs excess)
+  
+  Quality:
+    Defect rate threshold:  <500 PPM (parts per million)
+    Delivery OTIF target:   98%
+    Current performance:    PPM = 180; OTIF = 97.5%
+  
+  IP:
+    All designs remain Rolls-Royce IP
+    PPE may not manufacture for other engine OEMs using Rolls designs
+    Process IP and tooling design: PPE retains ownership
+  
+  Termination:
+    Rolls-Royce: 6 months notice for convenience; immediate for quality failure
+    PPE: 6 months notice + 12 months wind-down obligation
+    Change of control: NO termination right (favorable for MBO)
+  
+  ⚠ Key clause: Annual 3% cost-down is aggressive given input cost inflation.
+    In practice, PPE has achieved 1.5-2% cost-down through efficiency,
+    absorbing the gap from margin. Long-term margin compression risk.
+
+B.2 Smith+Nephew Master Supply Agreement — Key Terms
+
+  Change of control:   S+N may terminate with 90 days written notice
+  Product liability:   PPE indemnifies up to £5M per incident
+  Insurance required:  £10M product liability, £5M public liability
+  Quality:             ISO 13485 maintenance is a condition; loss of
+                       certification = automatic termination
+  Exclusivity:         None (PPE may supply competitors)
+  Minimum volumes:     None (purchase order basis)
+  
+  ⚠ Change of control clause is the primary commercial risk of the MBO.
+    S+N revenue = £7.5M (11% of total). Recommend: Pre-signing letter
+    from S+N procurement confirming continuation of relationship post-MBO.
+    Alternative: Negotiate waiver or consent in SPA as condition precedent.
+
+────────────────────────────────────────────
+
+SECTION C: RISK CROSS-CHECKS
+─────────────────────────────
+
+C.1 Financial Risk Cross-Check
+  Finding from QoE    Cross-Reference        Status         Impact
+  ──────────────────────────────────────────────────────────────────
+  EBITDA adj (£400K   Capex analysis:        CONFIRMED      Reduce adj
+  facility costs)     ongoing maintenance                    EBITDA by £150K
+  
+  NWC elevated        Inventory analysis:    CONFIRMED      One-time medical
+  (FY2025)            S+N program stocking                  inventory build
+  
+  Debtor days (51)    Aged debt report:      MINOR ISSUE    15% of debtors
+                      £1.4M > 60 days                       > 60 days; need
+                                                            bad debt review
+  
+  FCF conversion      Growth capex:          AS EXPECTED    Capex-driven;
+  declining           £3M growth in FY2025                  improves post-
+                                                            investment cycle
+
+C.2 Legal Risk Cross-Check
+  Finding             Cross-Reference        Status         Action
+  ──────────────────────────────────────────────────────────────────
+  S+N CoC clause      Revenue analysis:      HIGHEST RISK   Negotiate waiver
+                      11% of revenue at risk                pre-signing
+  
+  VSMPO supply        ESG review:            ACTION NEEDED  Commission
+  chain risk          sanctions compliance                  independent review
+  
+  NSIA notification   Defense revenue:       PROCESS RISK   File 8 weeks
+  required            8% from MOD work                      before target close
+  
+  Related-party       Property valuation:    RESOLVED       Market rent
+  lease               £840K vs £650K market                 adjustment in model
+
+C.3 Operational Risk Cross-Check
+  Finding             Cross-Reference        Status         Action
+  ──────────────────────────────────────────────────────────────────
+  No MES system       Value creation plan:   GAP            Add £350K IT
+                      Industry 4.0 target                   capex (not budgeted)
+  
+  Cybersecurity       MOD contracts:         CRITICAL       Cyber Essentials
+  inadequate          Increasingly required                 Plus by Q3 2026
+  
+  Flood risk          Insurance claim:       KNOWN RISK     £150K flood
+  (Attercliffe)       Sept 2025 incident                    defense investment
+  
+  Key-man (CEO)       Customer analysis:     CONFIRMED      12mo non-compete +
+                      Rolls-Royce reliance                  key-man insurance
+
+────────────────────────────────────────────
+
+SECTION D: IC MEMO SUMMARY INPUTS
+──────────────────────────────────
+
+D.1 Investment Summary (for IC Paper)
+  Opportunity:      MBO of Pinnacle Precision Engineering
+  Sector:           Aerospace & Medical Precision Components
+  Geography:        UK (Sheffield)
+  EV:               £105M (7.1x LTM Adj. EBITDA)
+  Entry EBITDA:     £14.8M (seller) / £14.5M (buyer adjusted)
+  Leverage:         4.5x (3.5x senior + 1.0x mezz)
+  Equity check:     £37.5M
+  Target return:    2.8-3.5x MOIC / 23-29% IRR over 5 years
+  Exit strategy:    Trade sale (8-9x forward EBITDA)
+
+D.2 Key Arguments FOR Investment
+  ✓ Best-in-class precision machining capability
+  ✓ Dual certification (AS9100 + ISO13485) is rare and defensible
+  ✓ 8-10 year aerospace production visibility (narrowbody backlog)
+  ✓ Medical device vertical is high-growth, high-margin diversifier
+  ✓ Strong management team with significant rollover commitment
+  ✓ Fragmented market offers buy-and-build opportunity
+  ✓ No change-of-control risk on largest customer (Rolls-Royce)
+  ✓ Entry multiple of 7.1x is fair-to-cheap vs. sector (8-10x)
+
+D.3 Key Arguments AGAINST Investment
+  ⚠ Customer concentration: Top 3 = 50% of revenue
+  ⚠ Aerospace cyclicality: 2020-style downturn could breach covenants
+  ⚠ Zero M&A experience: Buy-and-build thesis is unproven
+  ⚠ IT underinvestment: £655K unbudgeted IT capex required
+  ⚠ Smith+Nephew change-of-control risk (11% of revenue)
+  ⚠ Key-man risk on CEO (Rolls-Royce relationship)
+  ⚠ Geographic concentration (Sheffield only)
+
+D.4 Conditions for Approval
+  1. S+N change-of-control waiver obtained before completion
+  2. NSIA notification filed and clearance received
+  3. VSMPO sanctions compliance review completed (clean)
+  4. Key-man insurance + 18-month non-compete for CEO in SPA
+  5. Entry EBITDA floor of £14.0M (completion accounts mechanism)
+  6. IT investment budget (£655K) added to Year 1-2 capex plan
+  7. M&A integration director hired within 90 days of close
+
+D.5 Recommended Offer Price
+  Base case valuation: £105M (7.1x) — FAIR
+  Suggested maximum: £110M (7.4x) — includes operational synergy value
+  Walk-away price: £115M (7.8x) — above this, returns compress to <20% IRR
+
+════════════════════════════════════════════════════════════════════════
+                         STRICTLY CONFIDENTIAL
+         This document contains material non-public information.
+════════════════════════════════════════════════════════════════════════

@@ -1,0 +1,216 @@
+TECHNICAL DUE DILIGENCE & BUILDING SURVEY REPORT
+8–14 Avenue des Ternes, Paris 17e
+
+Prepared by:   ArcSurvey Europe S.A.S (Chartered Surveyors & Engineers)
+Client:        [Prospective Purchaser — Confidential]
+Inspection:    February 10–11, 2026
+Report Date:   February 15, 2026
+Status:        FINAL (structural); PENDING — MEP commissioning data
+
+Reference:     ASE-PAR-2026-0042
+
+═══════════════════════════════════════════════════════════════════════════════
+1. SCOPE OF INSPECTION
+═══════════════════════════════════════════════════════════════════════════════
+
+This report covers a technical inspection and assessment of the above property
+comprising visual surveys of all areas accessible at the time of inspection,
+and review of available technical documentation from the data room. Invasive
+or destructive investigations were not undertaken.
+
+Drawings, specifications and commissioning reports reviewed:
+  - Architect's "as-built" drawings v.8 (Atelier Desmoulins, Dec 2025)
+  - Structural engineer's completion certificate (BECT Ingénieurs, Jan 2026)
+  - BMS commissioning report (Siemens, Oct 2025) — PARTIAL
+  - Elevator compliance certificate (TÜV Rheinland, Jan 2026) ✓
+  - Fire safety compliance report (SDIS Paris, Dec 2025) ✓
+
+═══════════════════════════════════════════════════════════════════════════════
+2. STRUCTURAL ASSESSMENT
+═══════════════════════════════════════════════════════════════════════════════
+
+2.1 GENERAL
+    The building is of reinforced concrete (RC) frame construction with a
+    post-tensioned flat-slab structural system on each floor. The core walls
+    are RC shear walls providing lateral stability. Foundation type:
+    deep piled (60 No. bored piles to 18m depth; Franki EDP piles).
+
+2.2 FINDINGS
+    External façade: Full-height curtain walling system (Schüco AWS 90.SI+).
+    Units inspected on Floors 1–3 and 8 (highest accessible without MEWP).
+    No delamination, cracking or joint failures observed. ✓
+
+    Ground-floor arcade: Some minor cracking to render at column base
+    (arcade col. C7 & C9). Consistent with normal settlement in newly
+    completed structures. Monitoring recommended over 12 months.
+    REMEDIAL: Raking-out and refilling with flexible sealant; cost EUR 3,500.
+
+    Roof structure: Green sedum roof on podium (Level 1 setback) inspected.
+    Waterproofing membrane (Sarnafil TS 77-18 E) appeared intact with no
+    visible punctures. Drainage outlets clear. ✓
+    Solar PV array (128 kWp, 320 panels): Panel condition satisfactory.
+    No visible physical damage. Inverter room accessible; inverters (Fronius
+    Symo 25.0-3-M × 4) appear serviceable. CAUTION: Full PV commissioning
+    report not yet provided in data room (see Section 6).
+
+2.3 STRUCTURAL OPINION
+    No structural defects noted. No signs of differential settlement.
+    The structure appears to be in good condition commensurate with its age.
+
+═══════════════════════════════════════════════════════════════════════════════
+3. BUILDING SERVICES (MEP)
+═══════════════════════════════════════════════════════════════════════════════
+
+3.1 HVAC
+    System type: 4-pipe fan coil units (FCU) throughout office floors.
+    Adiabatic free cooling plant on roof. Primary plant: 2 × Climaveneta
+    ERACS-A 1600V air-cooled chillers (2 × 1,600 kW cooling capacity).
+    Heating: 2 × Buderus Logamax Plus GB172 condensing boilers.
+
+    FCUs inspected on Floors 1, 5 and 7 (occupied floors). All FCUs found
+    commissioned and serviceable. Filter media recently changed (confirmed by
+    maintenance log). ✓
+
+    Commissioning test report (Siemens, Oct 2025): ONLY 74% of FCUs shown
+    in final commissioning data. 127 of 170 units signed off; remaining 43
+    are on Floors 3 & 4 (vacant). Vendor has stated units were commissioned
+    but data not uploaded.
+    ⚠ FLAG A — Request full Siemens commissioning report for Floors 3 & 4
+      before or at practical completion of any FM handover. Risk: low
+      (units are new and same spec), but completeness required.
+
+3.2 ELECTRICAL
+    Main LV switchboard (ASTER by Legrand, 2,500A main incomer): visually
+    examined. Labelling complete. Cable containment tidy. ✓
+    UPS system: 2N configuration (2 × 300 kVA Eaton 93PS). Fully loaded
+    only to 12% of rated capacity (dedicated to IT room on each floor and
+    emergency services). Adequate headroom for tenants' IT loads. ✓
+    Generator: 1 × Caterpillar C9 diesel genset (250 kVA) in basement.
+    Last test run: January 22, 2026 (logged in BMS). ✓
+    EV Charging: 34 dedicated charging points (WALLBOX Copper SB; 22 kW).
+    Installed on B1 level only. 78 remaining parking spaces have cabling
+    "ready for fit-out" but chargers not yet installed. Regulatory minimum met.
+
+3.3 PLUMBING & DRAINAGE
+    Domestic water services: copper throughout; lagged in accessible plant
+    areas. Booster pump set (Grundfos HYDRO MPC-E) serviceable. ✓
+    Sanitary drainage: gravity to public sewer. No backflow prevention
+    issues noted. Building inspection chamber in B2 accessible.
+    Legionella risk: Schematic reviewed; no evident dead-legs in distribution.
+    L8 risk assessment required by first tenant occupation (landlord duty).
+    ⚠ FLAG B — L8 assessment and water-temperature monitoring regime
+      must be put in place before Floors 3 & 4 are let. Estimated cost: EUR 4,200.
+
+3.4 FIRE PROTECTION
+    Sprinkler system: Wet pipe throughout (Minimax; EN 12845 compliant).
+    SDIS inspection completed December 2025. ✓
+    Fire alarm: Hochiki FX system; L1 coverage. All sounders and detectors
+    verified on inspection. ✓
+    Emergency lighting: Self-contained 3-hour maintained units. ✓
+    Smoke ventilation: Natural smoke ventilation via automated AOVs in
+    stairwells. All actuators tested January 2026. ✓
+
+3.5 ELEVATORS
+    4 × KONE MonoSpace 700 passenger lifts (1,000 kg / 13-person) + 1 × KONE
+    cargo lift (2,500 kg). TÜV Rheinland certificates obtained for all 5 lifts
+    (January 2026). First statutory inspection due January 2028. ✓
+
+═══════════════════════════════════════════════════════════════════════════════
+4. SUSTAINABILITY & ENERGY
+═══════════════════════════════════════════════════════════════════════════════
+
+EPC Rating:         A (DPE émission: 8 kg CO₂eq/m².an; consommation: 55 kWh/m².an)
+HQE Certification:  "Excellent" (certified Cerqual, July 2025)
+
+ENERGY MODEL (Design stage — Simmhytep software, Atelier Desmoulins)
+  Heating demand:       28 kWh/m².an
+  Cooling demand:       31 kWh/m².an
+  Lighting (LG):        14 kWh/m².an
+  Aux & lift:            5 kWh/m².an
+  Total primary energy: 55 kWh/m².an (EP label A threshold: ≤ 60)
+
+OPERAT BASELINE (Décret Tertiaire)
+  Reference year: 2025 (building new; baseline data collection underway)
+  2030 target (−40%): 33 kWh/m².an → On track per design model
+  2050 target (−60%): 22 kWh/m².an → REQUIRES additional investment
+    (estimated EUR 1.2–1.8m envelope upgrades needed beyond 2035)
+
+SOLAR PV
+  Designed output: 128 kWp (estimated 101 MWh/yr to building loads)
+  Actual generation data: NOT YET AVAILABLE (system live since Dec 2025)
+  ⚠ FLAG C — PV commissioning test report and 30-day generation log
+    should be provided before SPA signing to validate design yield.
+
+═══════════════════════════════════════════════════════════════════════════════
+5. CAPITAL EXPENDITURE ASSESSMENT
+═══════════════════════════════════════════════════════════════════════════════
+
+IMMEDIATE (Year 0–1):
+  Column base rendering (cols C7, C9):         EUR      3,500
+  L8 assessment and water monitoring:           EUR      4,200
+  TOTAL IMMEDIATE:                             EUR      7,700
+
+SHORT TERM (Year 1–3):
+  Fit-out allowance — Floors 3 & 4 (tenant):  EUR   2,100,000  (landlord incentive)
+  PV monitoring and SCADA commissioning:       EUR     12,000
+  BMS full integration test (post-fit-out):    EUR     18,000
+  EV charging — remaining 78 spaces (if req.): EUR    140,000
+  TOTAL SHORT TERM:                            EUR  2,270,000
+
+MEDIUM TERM (Year 3–7):
+  FCU filter replacement programme:            EUR     85,000
+  Lift maintenance (KONE SLA expires Year 5):  EUR    120,000
+  External façade cleaning (10-yr cycle):      EUR     60,000
+  Chiller end-of-first-service (Year 7):       EUR    320,000
+  TOTAL MEDIUM TERM:                           EUR    585,000
+
+LONG TERM (Year 7–15, for Décret Tertiaire 2050):
+  Envelope insulation upgrade (2040–2045 est.):EUR  1,500,000
+  TOTAL LONG TERM:                             EUR  1,500,000
+
+TOTAL 15-YEAR CAPEX ESTIMATE (EXCL. TENANT FIT-OUT): EUR 2,162,700
+
+═══════════════════════════════════════════════════════════════════════════════
+6. OUTSTANDING INFORMATION — DATA ROOM GAPS
+═══════════════════════════════════════════════════════════════════════════════
+
+Item  Document                          Status         Risk Level
+────────────────────────────────────────────────────────────────────────
+A     Siemens HVAC commissioning (F3-4) NOT RECEIVED   Low
+B     L8 water risk assessment          NOT REQUIRED    Low (pre-occupation)
+      (to be commissioned by owner)
+C     PV commissioning & 30-day log     NOT RECEIVED   Low-Medium
+D     BMS SCADA full commissioning      PARTIAL         Low
+E     As-built mechanical drawings      RECEIVED ✓      —
+F     Energy Performance Contract       RECEIVED ✓      —
+      (Engie; valid to 2030)
+G     10-year structural maintenance    NOT RECEIVED   Medium
+      plan from Ternex / contractor
+
+═══════════════════════════════════════════════════════════════════════════════
+7. CONCLUSIONS & RECOMMENDATIONS
+═══════════════════════════════════════════════════════════════════════════════
+
+OVERALL CONDITION:   GOOD. No significant latent defects identified.
+                     Building is consistent with a new-build asset.
+
+DEAL-BREAKERS:       None identified at this stage.
+
+KEY ACTIONS BEFORE EXCHANGE:
+  1. Obtain full HVAC commissioning report (Floors 3 & 4) — Flag A
+  2. Obtain PV commissioning & 30-day generation data — Flag C
+  3. Request 10-year structural maintenance plan from contractor — Item G
+  4. Budget EUR 140,000 contingency for EV charging fit-out to full estate
+
+PRICE IMPLICATIONS:
+  No deduction recommended based on technical findings.
+  The EUR 7,700 immediate items are de minimis.
+  Tenant fit-out incentive (EUR 2.1m) already modelled in the financial
+  due diligence as a capital cost.
+
+═══════════════════════════════════════════════════════════════════════════════
+PREPARED BY: ArcSurvey Europe S.A.S
+Lead Surveyor: Pierre-Antoine Legros MRICS
+Co-Inspectors: Jana Mertens (MEP), Tomáš Bureš (Structural)
+This report is provided solely for the benefit of the named client.
+ArcSurvey Europe SAS accepts no liability to third parties.

@@ -1,0 +1,196 @@
+════════════════════════════════════════════════════════════════════════
+              MANAGEMENT TEAM ASSESSMENT & MBO READINESS
+                  Pinnacle Precision Engineering Ltd.
+                       Prepared: January 2026
+════════════════════════════════════════════════════════════════════════
+
+1. MANAGEMENT BUYOUT TEAM
+──────────────────────────
+
+1.1 James Hargreaves — Managing Director (Lead MBO participant)
+  Age:              44
+  Education:        MEng Mechanical Engineering (Sheffield), MBA (Cranfield)
+  Tenure at PPE:    18 years (joined 2008, MD since 2016)
+  Prior experience: Graduate engineer, Rolls-Royce Derby (2004-2008)
+  
+  Track record:
+    • CEO revenue growth: £38M (2016) → £68M (2025) = 7.0% CAGR
+    • Won Smith+Nephew medical contract (£7.5M/yr, PPE's first major medical)
+    • Led AS9100 Rev D re-certification (zero findings)
+    • Expanded Meadowhall facility from 15,000 to 28,000 sq ft
+    • Negotiated Rolls-Royce LTA extension through 2029
+  
+  Rollover commitment: £5.0M (30% of personal sale proceeds)
+  Post-MBO role: CEO (title upgrade from MD)
+  Compensation: £225K base + 40% bonus at EBITDA target + 8% equity sweet
+  
+  Assessment: STRONG — Deep industry knowledge, respected by customers,
+  proven growth track record. Weakness: No M&A or PE experience.
+  
+  ⚠ Key-man risk: HIGH — James IS the primary relationship with
+    Rolls-Royce (personal relationship with VP supply chain).
+    A 12-month restrictive covenant is in place but relies on goodwill.
+
+1.2 David Collins — Operations Director
+  Age:              52
+  Education:        HND Mechanical Engineering, Six Sigma Black Belt
+  Tenure at PPE:    22 years (Operations Director since 2012)
+  Prior experience: Production manager, BAE Systems (1996-2004)
+  
+  Track record:
+    • Reduced scrap rate from 18% (2012) to 12% (2025)
+    • Implemented AS9100 quality management system
+    • Managed factory expansion with zero production downtime
+    • Overseen 40% capacity increase over 5 years
+  
+  Rollover commitment: £1.0M
+  Assessment: SOLID — Backbone of production operations. Conservative
+  operator who may resist rapid change. Need to manage carefully
+  through transformation phase. Strong shop floor credibility.
+
+1.3 Sarah Mitchell — Finance Director
+  Age:              38
+  Education:        ACA qualified (KPMG training contract), BSc Accounting
+  Tenure at PPE:    6 years (FD since 2022, previously Financial Controller)
+  Prior experience: Audit senior, KPMG Manchester (2010-2017);
+                    FP&A manager, Mettis Aerospace (2017-2020)
+  
+  Track record:
+    • Upgraded PPE from Excel-based reporting to Sage 200 ERP
+    • Improved monthly close from 25 business days to 12
+    • Managed FY2024 audit with clean opinion
+    • Led Series B-equivalent (RCF facility) negotiation with HSBC
+  
+  Rollover commitment: £0.5M
+  Assessment: SOLID — Good financial controller with improving strategic
+  capability. Mettis background gives PE-backed company experience.
+  May need CFO coach/mentor for first 12 months post-MBO.
+  
+  ⚠ Gap: No experience with leveraged finance, covenant reporting,
+    or PE-style monthly board packs. Training budget recommended.
+
+1.4 Mark Thompson — Commercial Director
+  Age:              46
+  Education:        BSc Aerospace Engineering (Bristol), DipM (CIM)
+  Tenure at PPE:    8 years
+  Prior experience: Sales manager, Senior plc (2008-2016);
+                    BD executive, GKN Aerospace (2004-2008)
+  
+  Track record:
+    • Built medical device vertical from £2M (2018) to £15M (2025)
+    • Opened relationships with Safran and GE Aerospace
+    • Won SC21 Gold Award — first precision machining company in region
+    • Manages team of 4 sales engineers
+  
+  Rollover commitment: £1.0M
+  Assessment: STRONG — MD candidate over 3-5 year horizon. Best
+  commercial instincts on the team. Key to diversification strategy.
+
+2. SECOND LINE MANAGEMENT
+──────────────────────────
+  Name                 Role              Tenure   Rating    Retention Risk
+  ──────────────────────────────────────────────────────────────────────────
+  Tom Williams         Quality Manager   15 yrs   Strong    Low
+  Raj Krishnamurthy    Engineering Mgr   7 yrs    Strong    Medium
+  Claire Evans         HR Manager        4 yrs    Solid     Low
+  Mike Priestley       IT Manager        3 yrs    Adequate  Medium
+  John Barker          Shop Floor Supv   20 yrs   Strong    Low
+
+  Overall second line: Adequate but thin. Key gap = no dedicated
+  M&A / integration capability. No supply chain director (reported
+  into Operations Director, who is already stretched).
+
+  ⚠ Raj Krishnamurthy (Engineering Mgr) was recently approached by
+    Rolls-Royce for a senior role. Retention package recommended:
+    £20K retention bonus + equity participation in MBO sweet equity pool.
+
+3. MANAGEMENT ALIGNMENT & INCENTIVES
+──────────────────────────────────────
+3.1 Sweet Equity Proposal
+  Management equity pool: 15% of fully diluted equity
+  Allocation:
+    James Hargreaves:   8.0%    (CEO)
+    David Collins:      2.5%    (COO)
+    Sarah Mitchell:     2.0%    (CFO)
+    Mark Thompson:      2.5%    (CCO)
+  
+  Vesting: 4-year vesting, 25% pa, cliff on Year 1
+  Ratchet: Additional 5% pool unlocked at 3.0x MOIC threshold
+  
+  Alignment calculation (base case):
+    Exit equity value:    £155M (at 8x, Year 5)
+    Management 15%:       £23.3M
+    Per James Hargreaves: £12.4M (incl. rollover return)
+    → Significant wealth creation alignment with sponsor
+
+3.2 Governance & Reporting
+  Board composition (post-MBO):
+    • Chairman: Sponsor-appointed non-exec
+    • CEO: James Hargreaves
+    • CFO: Sarah Mitchell (board observer initially, full member Year 2)
+    • Sponsor Board Director (#1)
+    • Sponsor Board Director (#2)
+    • Independent NED: Industry expert (to be appointed)
+  
+  Reporting cadence:
+    • Monthly: Management accounts + KPI pack (by Day 15)
+    • Quarterly: Full board meeting + strategy review
+    • Annual: Budget process + 5-year plan refresh
+
+4. KEY-MAN & SUCCESSION RISK ASSESSMENT
+─────────────────────────────────────────
+  Role              Key-Man Risk   Successor     Timeline to Ready
+  ──────────────────────────────────────────────────────────────────
+  CEO (James)       HIGH          Mark Thompson  18-24 months
+  COO (David)       MEDIUM        Tom Williams   12 months
+  CFO (Sarah)       LOW           Controller     6 months
+  CCO (Mark)        MEDIUM        Sales Engr     18 months
+
+  ⚠ If James departs within Year 1-2, significant customer relationship
+    risk (especially Rolls-Royce). Insurance and non-compete essential.
+
+5. MANAGEMENT'S OWN RISK ASSESSMENT
+─────────────────────────────────────
+(From management presentation, December 2025)
+
+"We see the following risks to the MBO plan:
+  1. Aerospace downturn could reduce revenue 10-15% (cyclical risk)
+  2. Skilled labor shortages remain acute — we need 20 additional
+     CNC machinists over the next 2 years, and the Sheffield pool
+     is very competitive
+  3. Titanium and Inconel pricing has risen 25% YoY — we have
+     limited ability to pass through to OEMs under fixed contracts
+  4. Our IT infrastructure is aging — the Sage 200 ERP needs
+     significant investment to support Industry 4.0 goals
+  5. We have never done an acquisition — this is new territory
+     for us and we will need sponsor support and potentially an
+     experienced M&A integration hire"
+
+Management self-assessment: Honest, no sandbagging. Team is aware
+of limitations and has asked for sponsor operational support.
+
+6. MBO READINESS SCORECARD
+───────────────────────────
+  Factor                    Score (1-5)   Comment
+  ──────────────────────────────────────────────────────────
+  CEO capability            4.5           Strong, but no PE experience
+  Team depth (#2-#4)        3.5           Adequate; thin in places
+  Financial maturity        3.0           ERP upgraded; leverage new
+  Alignment (skin in game)  4.5           £7.5M total rollover
+  Governance readiness      3.0           Need board training
+  M&A capability            1.5           Zero track record
+  IT / digital readiness    2.5           Legacy systems
+  Cultural readiness        4.0           Entrepreneurial, adaptable
+  ──────────────────────────────────────────────────────────
+  OVERALL MBO READINESS:    3.3 / 5.0
+
+  Verdict: READY WITH CONDITIONS
+  Conditions:
+    (a) Hire M&A integration director within 90 days
+    (b) Board training / PE governance onboarding
+    (c) CFO coaching program for leveraged finance reporting
+    (d) Raj Krishnamurthy retention package
+
+════════════════════════════════════════════════════════════════════════
+                         STRICTLY CONFIDENTIAL
+════════════════════════════════════════════════════════════════════════

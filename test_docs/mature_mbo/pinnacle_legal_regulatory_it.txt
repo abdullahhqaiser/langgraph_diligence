@@ -1,0 +1,260 @@
+════════════════════════════════════════════════════════════════════════
+          LEGAL, REGULATORY, IT & ESG PRE-EXCLUSIVITY REVIEW
+                  Pinnacle Precision Engineering Ltd.
+                  Prepared by: External Legal Counsel
+                          January 2026
+════════════════════════════════════════════════════════════════════════
+
+1. CORPORATE & LEGAL STRUCTURE
+──────────────────────────────
+1.1 Group Structure
+  Pinnacle Precision Engineering Ltd.
+  ├─ 100% PPE Property Ltd. (holds Attercliffe freehold)
+  └─ 100% PPE Medical Ltd. (dormant, was intended for medical division)
+
+  ⚠ PPE Property Ltd: The Attercliffe factory is held in a property
+    sub. Currently the property is leased to PPE Ltd. at £840K/yr.
+    The Hargreaves family trust owns PPE Property Ltd. via PPE Ltd.
+    POST-MBO: Property company must be included in the deal OR
+    a new arm's-length lease negotiated at market rent (~£650K/yr).
+
+  ⚠ PPE Medical Ltd: Dormant company. Recommend striking off to
+    simplify structure. No assets, no liabilities.
+
+1.2 Articles & Shareholder Agreement
+  • Standard Model Articles (Companies Act 2006)
+  • No shareholder agreement currently in place (family ownership)
+  • Pre-emption rights: Standard statutory (waivable on MBO completion)
+  • Drag-along / tag-along: None (to be introduced in new SHA)
+
+1.3 Outstanding Litigation
+  (a) Patent dispute — Settled (2024)
+      PPE vs. Hartwell Machining: Allegation of design patent
+      infringement on aerospace bracket design. Settled for £600K.
+      No admission of liability. RESOLVED — no ongoing obligations.
+
+  (b) Employment tribunal — Active
+      Former employee (John Blake, dismissed Nov 2024) claims unfair
+      dismissal. PPE's position: Gross misconduct (safety violation).
+      Estimated exposure: £25-40K. Hearing: March 2026.
+      Risk: LOW — strong documentation of safety breach.
+
+  (c) Insurance claim — Pending
+      Flood damage to Attercliffe ground floor (Sept 2025): £180K
+      claim submitted to Zurich. Expected resolution: Q2 2026.
+      Risk: LOW — standard property damage claim, well-documented.
+
+  No other active, pending, or threatened litigation identified.
+
+2. KEY CONTRACTS REVIEW
+───────────────────────
+
+2.1 Customer Contracts (Material)
+  Customer          Contract Type     Term        Key Clauses
+  ──────────────────────────────────────────────────────────────────
+  Rolls-Royce       LTA (framework)   2024-2029   Annual cost-down 3%;
+                                                   quality specs; IP
+                                                   ownership (Rolls);
+                                                   termination: 6mo notice
+  
+  Airbus (via       Purchase orders   Rolling      ITAR compliance clause;
+  Spirit Aero)                                     delivery penalties (2%
+                                                   per week delay, max 10%)
+  
+  BAE Systems       LTA (framework)   2023-2027   MOD flowdown clauses;
+                                                   SC21 compliance required;
+                                                   UK national security
+                                                   provisions apply
+  
+  Smith+Nephew      Master Supply     2022-2027   ISO 13485 maintenance;
+                    Agreement                      product liability: PPE
+                                                   max £5M per incident;
+                                                   change-of-control: S+N
+                                                   may terminate with 90 days
+  
+  ⚠ Change of control provisions:
+    Rolls-Royce LTA: NO change of control clause identified (favorable)
+    BAE Systems: Notification required within 30 days of ownership change;
+      BAE may terminate if new owner is on restricted entity list
+    Smith+Nephew MSA: Change of control trigger — S+N has 90-day right
+      to terminate. RISK: Must negotiate waiver or carve-out pre-close.
+      Loss of S+N = £7.5M revenue risk.
+
+  ⚠ Safran contract: Under French law, 60-day change-of-control
+    notification required. Termination right exists. Low risk given
+    PE ownership is common in Safran supply chain.
+
+2.2 Supplier Contracts (Material)
+  Supplier           Material        Annual Spend   Contract
+  ──────────────────────────────────────────────────────────────
+  Timet (Berkshire)  Titanium alloys  £4.2M         Annual (renews Mar)
+  VSMPO-AVISMA       Ti-6Al-4V        £2.8M         Spot (no LTA)
+  Special Metals     Inconel 718      £3.1M         Annual (renews Jun)
+  Böhler Voestalpine Stainless steel  £1.8M         Framework (2yr)
+
+  ⚠ VSMPO-AVISMA (Russian): PPE purchases Ti-6Al-4V from VSMPO via
+    UK distributor. Post-2022 sanctions have complicated supply chain.
+    PPE asserts all material is sourced via OFSI-compliant routes.
+    Recommend: Independent sanctions compliance review. Alternative
+    sourcing from Timet/ATI should be accelerated.
+
+  ⚠ No formal dual-sourcing policy for critical materials. Single
+    supplier dependency on Timet for Grade 5 titanium bar stock.
+    Lead time: 10-14 weeks currently (pre-COVID norm: 6-8 weeks).
+
+2.3 Property Leases
+  Property           Landlord                 Rent/yr    Expires
+  ──────────────────────────────────────────────────────────────────
+  Attercliffe (65k)  PPE Property Ltd         £840K      2032
+                     (related party — family)
+  Meadowhall (28k)   Meadowhall Industrial    £420K      2030
+                     Park Ltd (3rd party)
+
+  ⚠ Attercliffe lease: Related-party at above-market rent. Market
+    rent for comparable Sheffield industrial: ~£10/sq ft = £650K.
+    Post-MBO: Require acquisition of PPE Property Ltd. or arm's-length
+    lease renegotiation saving £190K/yr.
+
+  Meadowhall lease: Arm's-length, market rate, 4-year remaining.
+  Break clause: 2028 (either party, 12 months notice).
+
+3. REGULATORY & COMPLIANCE FRAMEWORK
+──────────────────────────────────────
+
+3.1 Export Controls & Defense
+  • PPE holds UK Strategic Export License (SIL) for Category 2 goods
+  • All defense work is UK MOD approved (List N supplier)
+  • No US ITAR-registered parts manufactured (Airbus parts are via
+    Spirit AeroSystems who holds ITAR responsibility)
+  • UK National Security & Investment Act (NSIA) 2021:
+    → MBO WILL require mandatory notification to BEIS
+    → Defense sector + aerospace are "notifiable activities"
+    → Expected timeline: 30 working days for clearance
+    → Risk: LOW (PE ownership of UK aerospace suppliers is routine)
+
+  ⚠ NSIA notification is a deal-blocker if not filed. Must be submitted
+    before completion. Budget 6-8 weeks for clearance to be safe.
+
+3.2 Environmental Compliance
+  • Environmental permit: EA/EPR/XXXXX (Environment Agency)
+  • Scope: Cutting fluid disposal, metal swarf recycling, noise
+  • Compliance history: Clean (no enforcement actions since 2010)
+  • Attercliffe site: Phase 1 environmental survey completed (2023)
+    → No contaminated land identified
+    → Flood zone: Zone 2 (medium risk — flooding occurred Sept 2025)
+  
+  ⚠ Flood risk: Attercliffe facility is in EA Flood Zone 2. The Sept
+    2025 flood caused £180K damage (insurance claim pending). Business
+    continuity plan exists but is informal. Recommend: Formal BCP +
+    flood resilience investment (£100-150K for flood barriers).
+
+3.3 Health & Safety
+  • HSE management system: Certified to ISO 45001:2018
+  • Last HSE inspection: April 2025 — no improvement notices
+  • Accident record (last 3 years):
+    FY2023: 2 RIDDOR incidents (1 fracture, 1 laceration)
+    FY2024: 1 RIDDOR incident (slip/trip)
+    FY2025: 0 RIDDOR incidents
+  • Lost time injury rate: 2.1 per million hours (sector avg: 3.8)
+  
+  Assessment: Good H&S record, trending positively. Below sector average.
+
+4. IT & DIGITAL MATURITY ASSESSMENT
+─────────────────────────────────────
+
+4.1 Current IT Estate
+  System            Vendor          Status        Risk
+  ──────────────────────────────────────────────────────────────
+  ERP               Sage 200        Adequate      Medium
+  CAD/CAM           Mastercam 2024  Good          Low
+  MES (shopfloor)   None            ⚠ Gap         HIGH
+  Quality (QMS)     ISOtrain        Adequate      Medium
+  CRM               Spreadsheets    ⚠ Gap         HIGH
+  Cybersecurity     Basic (firewall) ⚠ Inadequate HIGH
+  Backup/DR         On-prem tape    ⚠ Outdated    HIGH
+
+  ⚠ IT MATURITY: LOW. PPE has significantly underinvested in IT.
+    Key gaps:
+    (a) No Manufacturing Execution System (MES) — cannot track
+        real-time production, OEE, or implement Industry 4.0 monitoring
+    (b) No CRM — customer relationships managed via email/spreadsheets
+    (c) Cybersecurity: No Cyber Essentials certification, no EDR,
+        no regular penetration testing. MOD contracts increasingly
+        require Cyber Essentials Plus certification.
+    (d) Backup: On-premise tape backup with no off-site DR.
+        RPO = 24 hours; RTO = 48+ hours. Inadequate for manufacturing.
+
+4.2 IT Investment Budget (Recommended)
+  Initiative              Year 1     Year 2     Total
+  ──────────────────────────────────────────────────────
+  MES implementation      £250K      £100K      £350K
+  CRM (HubSpot/Dynamics)  £80K       £30K       £110K
+  Cyber Essentials Plus   £45K       £15K       £60K
+  Cloud backup / DR       £35K       £20K       £55K
+  Sage 200 upgrade        £60K       £20K       £80K
+  Total                   £470K      £185K      £655K
+
+  ⚠ IT investment is NOT reflected in management's value creation plan.
+    Additional £655K capex over 2 years should be budgeted.
+
+5. ESG & SUSTAINABILITY
+───────────────────────
+
+5.1 Environmental
+  • Carbon emissions reporting: Streamlined Energy & Carbon Reporting (SECR)
+  • Scope 1 emissions (FY2025): 890 tCO2e (gas heating, company vehicles)
+  • Scope 2 emissions (FY2025): 1,450 tCO2e (electricity, grid average)
+  • No Scope 3 assessment completed
+  • Net zero commitment: None (management has not addressed)
+  
+  ✓ Cutting fluid: Switched to biodegradable fluids (2023)
+  ✓ Metal recycling: 98% of swarf recycled (sold to metal merchants)
+  ⚠ Energy: No renewable energy procurement; no solar panels installed
+  ⚠ Net zero: Increasingly required by tier-1 aerospace OEMs
+    (Rolls-Royce, Airbus both targeting net zero by 2050).
+    PPE will need a Net Zero roadmap within 2 years or risk
+    exclusion from OEM preferred supplier lists.
+
+5.2 Social
+  • Living Wage Foundation accredited employer
+  • Apprenticeship program: 8 apprentices currently (target: 15)
+  • Gender diversity: 12% female in production (sector avg: 9%)
+  • Ethnic diversity: 18% non-white (Sheffield population: 19%)
+  • No modern slavery incidents; annual statement published
+  
+  ✓ Good community engagement (local school partnerships, STEM outreach)
+  ✓ Apprenticeship program is a key pipeline for skilled machinists
+
+5.3 Governance
+  ⚠ Currently family-run governance — no formal board committees
+  ⚠ No independent directors
+  ⚠ No whistleblowing policy (verbal reporting to HR only)
+  ⚠ No formal anti-bribery / ABC policy (rely on personal integrity)
+  
+  Post-MBO governance improvements required:
+    (a) Audit committee (chaired by independent NED)
+    (b) Formal whistleblowing policy and reporting line
+    (c) Anti-bribery & corruption policy + annual training
+    (d) Quarterly ESG reporting to board
+
+6. RISK REGISTER (PRE-EXCLUSIVITY)
+───────────────────────────────────
+  Risk                           Severity  Likelihood  Priority
+  ────────────────────────────────────────────────────────────────
+  Smith+Nephew CoC termination   HIGH      MEDIUM      P1 — CRITICAL
+  NSIA clearance delay           MEDIUM    LOW         P2 — MONITOR
+  VSMPO sanctions compliance     MEDIUM    MEDIUM      P2 — ACTION
+  IT cybersecurity incident      HIGH      MEDIUM      P1 — CRITICAL
+  Flood risk (Attercliffe)       MEDIUM    MEDIUM      P2 — ACTION
+  Employment tribunal outcome    LOW       HIGH        P3 — WATCH
+  Related party lease contest    LOW       LOW         P3 — WATCH
+  Net zero requirements (2027)   MEDIUM    HIGH        P2 — ACTION
+
+  TOP 3 ACTIONS BEFORE EXCLUSIVITY:
+  1. Negotiate Smith+Nephew CoC waiver or comfort letter
+  2. Commission independent VSMPO sanctions compliance review
+  3. Engage cybersecurity firm for Cyber Essentials assessment
+
+════════════════════════════════════════════════════════════════════════
+                         STRICTLY CONFIDENTIAL
+════════════════════════════════════════════════════════════════════════

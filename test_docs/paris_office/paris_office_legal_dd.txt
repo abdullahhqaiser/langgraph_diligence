@@ -1,0 +1,226 @@
+LEGAL DUE DILIGENCE REPORT
+8–14 Avenue des Ternes, Paris 17e
+
+Prepared by:   Lebrun Joplin & Associés (Avocats au Barreau de Paris)
+Client:        [Prospective Purchaser — Confidential]
+Date:          February 18, 2026
+Status:        PRELIMINARY — Based on data room documents received Feb 12, 2026
+               Further confirmations outstanding (noted in RED FLAGS section)
+
+═══════════════════════════════════════════════════════════════════════════════
+1. TITLE & OWNERSHIP
+═══════════════════════════════════════════════════════════════════════════════
+
+1.1 CURRENT OWNER
+    Ternex Développement SAS, immatriculée au RCS de Paris sous le numéro
+    B 842 117 956, siège social : 42 Rue du Faubourg Saint-Honoré, 75008 Paris.
+
+1.2 TITLE DOCUMENTS REVIEWED
+    - Acte de propriété dated March 7, 2021 (land acquisition by Ternex
+      from Groupe Foncière Orly SA for EUR 18,400,000) ✓
+    - Permis de construire no. PC 075 117 23 01004 dated March 22, 2023 ✓
+    - DAACT (Déclaration Attestant l'Achèvement et la Conformité des Travaux)
+      issued November 14, 2025 ✓
+    - Procès-verbal de réception des travaux signed January 15, 2026 ✓
+
+1.3 TITLE DEFECTS / FLAGS
+    ⚠ RED FLAG 1 — DPU PRE-EMPTION RIGHT
+      The City of Paris was formally notified under the Droit de Préemption
+      Urbain (DPU) on February 3, 2026. The statutory response period is
+      60 days (expires April 4, 2026). There is no indication from the
+      Mairie de Paris that they intend to exercise, but this cannot be
+      confirmed until the period has lapsed or a formal waiver issued.
+      RECOMMENDATION: Condition SPA on DPU lapse or formal Mairie waiver.
+
+    ⚠ RED FLAG 2 — UNRESOLVED SERVITUDE
+      The registered pedestrian easement (servitude de passage) over the
+      ground-floor arcade was created by acte notarié in 1947 in favour
+      of the upwind neighbour (no. 6 Avenue des Ternes). Although described
+      by the vendor as "standard and non-onerous," the beneficiary has not
+      formally confirmed they do not object to the new building restricting
+      access hours from 22:00–06:00 as per building management regulations.
+      RECOMMENDATION: Obtain written confirmation from no. 6 Avenue des
+      Ternes that the modified access hours do not constitute breach.
+      OUTSTANDING: Not yet received in data room as of this report.
+
+1.4 MORTGAGE STATUS
+    Senior mortgage (hypothèque conventionnelle) registered in favour of
+    BNP Paribas Real Estate Finance for EUR 68,000,000.
+    Main refinancing undertaking obtained from BNP PREF confirms
+    discharge upon receipt of agreed repayment sum from completion proceeds.
+    RADIATION CONDITION: mainlevée documentation to be prepared by Maître
+    Leblanc-Rochard at completion.
+
+═══════════════════════════════════════════════════════════════════════════════
+2. PLANNING & REGULATORY
+═══════════════════════════════════════════════════════════════════════════════
+
+2.1 PLANNING CONSENT
+    The Permis de Construire (PC 075 117 23 01004) authorises:
+    - 14,200 sqm SHON (Surface Hors Œuvre Nette)
+    - Mixed office use (destination "bureaux") across all floors
+    - 112 underground parking spaces
+    - Public-facing commercial use permitted on ground floor (arcade)
+    The PC is now definitive (délai de recours contentieux expired without
+    challenge, confirmed by the Tribunal Administratif de Paris letter
+    dated June 15, 2024). ✓
+
+2.2 PLU COMPLIANCE
+    The asset is located in a zone UG (Paris Local Urban Plan — PLU révisé
+    2022). Permitted uses include offices (tertiary). The building parameters
+    (height: 31m; COS: 4.8) comply with the PLU regulations. ✓
+
+2.3 DÉCRET TERTIAIRE (Energy)
+    The building is pre-compliant with the French Décret Tertiaire
+    (ordonnance 2018-937) trajectory to 2030 (−40% energy vs. 2010
+    reference). An OPERAT registration has been submitted.
+    ⚠ NOTE: The 2030 target trajectory is confirmed, but the 2050 −60%
+    trajectory will require additional capital expenditure (estimated
+    EUR 1.2–1.8m in insulation improvements) not yet provided for.
+
+2.4 ERP / ACCESSIBILITY
+    Full compliance certificate obtained from the Commission de Sécurité
+    (December 2025). ✓
+
+═══════════════════════════════════════════════════════════════════════════════
+3. LEASE REVIEW
+═══════════════════════════════════════════════════════════════════════════════
+
+3.1 MERIDIAN CAPITAL SA (Floor 1)
+    Lease type: Bail commercial (3-6-9)
+    Commencement: January 15, 2026 | Expiry: December 31, 2035
+    Break: December 31, 2032 (6-month notice)
+    Rent: EUR 495/sqm/yr (+parking: 8 spaces @ EUR 200/space/month)
+    Status: EXECUTED ✓
+    Notes: Meridian Capital is a subsidiary of Meridian Capital Group
+    (Luxembourg). Parent guarantee letter received from MCG Luxembourg SA.
+    Creditworthiness assessed as satisfactory.
+
+3.2 OLYRIX CONSULTING (Floor 2)
+    Lease type: Bail commercial (3-6-9)
+    Commencement: February 1, 2026 | Expiry: January 31, 2034
+    Break: January 31, 2031 (6-month notice)
+    Rent: EUR 490/sqm/yr (+parking: 6 spaces)
+    Status: EXECUTED ✓
+    ⚠ RED FLAG 3 — OLYRIX CREDITWORTHINESS
+      Olyrix Consulting SARL is a 3-year-old entity with reported turnover
+      of EUR 2.1m (2024 accounts filed at Greffe). Annual rent obligation
+      is EUR 681,100. Rent: Turnover ratio of 32% is elevated.
+      No parent guarantee has been provided.
+      RECOMMENDATION: Require 12-month rent deposit (dépôt de garantie
+      in escrow) or parent guarantee as condition of acquisition.
+      OUTSTANDING: Vendor has been asked; response awaited.
+
+3.3 SYNEKTIA SARL (Floor 5)
+    Lease type: Bail commercial (3-6-9)
+    Commencement: December 15, 2025 | Expiry: November 30, 2033
+    Break: November 30, 2030 (6-month notice)
+    Rent: EUR 700,000 pa (flat rate; not per sqm)
+    Status: EXECUTED ✓
+    Notes: Synektia SARL is a French tech company; 2023 accounts show
+    EUR 18m turnover, EUR 2.1m EBITDA. Financially sound.
+
+3.4 AXELON FINANCE (Floor 6)
+    Lease type: Bail commercial (3-6-9)
+    Commencement: January 1, 2026 | Expiry: December 31, 2034
+    Break: December 31, 2031 (6-month notice)
+    Rent: EUR 707,000 pa
+    Status: EXECUTED ✓
+    Notes: Axelon Finance is an FCA-regulated entity (UK) with a French
+    branch (succursale). French branch accounts show EUR 45m turnover.
+    Creditworthiness: satisfactory. Holding company guarantee reviewed
+    and found adequate.
+    ⚠ NOTE: Axelon's UK parent (Axelon Finance Plc) is subject to FCA
+    investigation (announced Jan 2026) relating to alleged mis-selling of
+    structured products. No French regulatory action noted. Monitor.
+
+3.5 PERENNE TECH (Floor 7)
+    Lease type: Bail commercial (3-6-9)
+    Commencement: March 15, 2024 | Expiry: February 28, 2033
+    Break: February 28, 2030 (6-month notice)
+    Rent: EUR 714,000 pa
+    Status: EXECUTED ✓ (pre-dates current sale process; novation required)
+    ⚠ RED FLAG 4 — LEASE NOVATION REQUIRED
+      Perenne Tech's lease was originally entered with the construction
+      contractor Ternex Build SAS (a separate entity from Ternex
+      Développement SAS). A novation agreement to transfer the lease to
+      Ternex Développement SAS (and subsequently to the Purchaser) has not
+      yet been executed. Legal risk: Perenne could challenge the assignment
+      if novation is not properly documented.
+      RECOMMENDATION: Make novation a condition precedent to SPA signing.
+
+3.6 VECTIS LEGAL (Floor 8)
+    Lease type: Bail commercial (3-6-9)
+    Commencement: January 15, 2026 | Expiry: December 31, 2035
+    Break: December 31, 2032 (6-month notice)
+    Rent: EUR 707,000 pa
+    Status: EXECUTED ✓
+    Notes: Law firm; financially stable; long-term anchor. ✓
+
+═══════════════════════════════════════════════════════════════════════════════
+4. CORPORATE & TAX
+═══════════════════════════════════════════════════════════════════════════════
+
+4.1 STRUCTURE
+    Transaction is structured as an asset deal (vente d'immeuble).
+    No share acquisition proposed.
+    DMTO (droits de mutation à titre onéreux): applicable at 5.80% of
+    purchase price. Estimated: EUR 7,395,000. ✓
+
+4.2 TVA
+    The asset was completed post-PC resolution definitive; TVA
+    (20%) applied to the construction works was fully recovered by Ternex.
+    The sale itself is subject to a TVA election (option pour la TVA)
+    which Ternex confirms will be exercised. This avoids the 5.80% DMTO
+    (replaced by 0.715% transfer tax). However, Purchaser must hold asset
+    for minimum 20 years or repay TVA on a pro-rated basis.
+    ⚠ NOTE: If Purchaser's investment horizon is 5–7 years, TVA recapture
+    on exit must be modelled (approximately EUR 2.1m at Year 5 exit).
+
+4.3 BENEFICIAL OWNERSHIP
+    UBO register (Registre des Bénéficiaires Effectifs) extract confirms:
+    - Patrice Houillon (DOB: July 14, 1969): 83% economic interest
+    - Ternex Holding SA (Luxembourg): 17% economic interest
+
+    ⚠ RED FLAG 5 — UBO VERIFICATION OUTSTANDING
+      Ternex Holding SA (Luxembourg entity) UBO data has not been provided
+      in the data room. We are unable to confirm the beneficial ownership
+      of the 17% Luxembourg holding entity.
+      RECOMMENDATION: Obtain and verify Luxembourg UBO register for Ternex
+      Holding SA. This is a KYC/AML requirement under Directive 2018/843.
+      OUTSTANDING: Critical — block due diligence until resolved.
+
+═══════════════════════════════════════════════════════════════════════════════
+5. ENVIRONMENTAL
+═══════════════════════════════════════════════════════════════════════════════
+
+5.1 Phase I Environmental:   Completed by Arcadis (January 2026). Clean.
+5.2 Phase II Environmental:  Not required (Phase I no material pathways).
+5.3 Asbestos:                DTA (Dossier Technique Amiante) reviewed;
+                             no asbestos found (new build). ✓
+5.4 Flood Risk:              Asset located in PPRI (Plan de Prévention du
+                             Risque Inondation) Zone Blanche — not at risk. ✓
+5.5 Radon:                   Zone 1 (low) per French radon map 2022. ✓
+
+═══════════════════════════════════════════════════════════════════════════════
+6. SUMMARY OF RED FLAGS & CONDITIONS PRECEDENT
+═══════════════════════════════════════════════════════════════════════════════
+
+BLOCKER (deal cannot proceed without resolution):
+  RF5 — Luxembourg UBO verification for Ternex Holding SA
+
+CONDITIONS PRECEDENT RECOMMENDED:
+  RF1 — DPU waiver or lapse (Apr 4, 2026)
+  RF4 — Perenne Tech lease novation executed
+
+COMMERCIAL CONDITIONS (negotiate, not hard CP):
+  RF2 — Servitude confirmation letter
+  RF3 — Olyrix 12-month rent deposit or parent guarantee
+
+MONITOR (no immediate action):
+  Axelon Finance FCA investigation — UK matter; French branch unaffected
+  Décret Tertiaire 2050 capex liability — factor into price
+
+═══════════════════════════════════════════════════════════════════════════════
+PREPARED BY: Lebrun Joplin & Associés | Avocats au Barreau de Paris
+This report is privileged and confidential. Not for onward distribution.

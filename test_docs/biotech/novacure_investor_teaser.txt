@@ -1,0 +1,123 @@
+════════════════════════════════════════════════════════════════════════
+                     CONFIDENTIAL – INVESTOR TEASER
+                  NovaCure Therapeutics Inc. (Series C)
+                         Prepared: January 2026
+════════════════════════════════════════════════════════════════════════
+
+1. COMPANY OVERVIEW
+───────────────────
+NovaCure Therapeutics is a clinical-stage biopharmaceutical company
+focused on developing first-in-class small molecule inhibitors for
+treatment-resistant solid tumors. Founded in 2018, the company is
+headquartered in Cambridge, MA with R&D operations in Basel, Switzerland.
+
+    Legal Name:         NovaCure Therapeutics Inc.
+    Incorporated:       Delaware, USA (2018)
+    Employees:          87 FTE (48 R&D, 12 Clinical Ops, 27 G&A)
+    Lead Program:       NVC-4019 (CDK12/13 dual inhibitor)
+    Current Phase:      Phase 2a (NSCLC, triple-negative breast cancer)
+    Funding to Date:    $215M across Seed, Series A, B
+    Seeking:            $120M Series C at $680M pre-money valuation
+
+2. UNMET MEDICAL NEED
+─────────────────────
+NovaCure targets tumors driven by transcriptional addiction — cancers
+that rely on super-enhancer mediated gene expression for survival. These
+tumors are poorly served by existing CDK4/6 inhibitors (palbociclib,
+ribociclib) and checkpoint immunotherapy.
+
+Key statistics:
+  • NSCLC patients failing 2L+ therapy: ~185,000 annually (US + EU5)
+  • Triple-negative breast cancer (TNBC): ~46,000 new cases/yr (US)
+  • 5-year survival for metastatic TNBC: <12%
+  • CDK12-loss prevalence in aggressive solid tumors: 8-15%
+
+NVC-4019 targets a distinct mechanism (CDK12/13) not addressed by any
+approved or late-stage therapy, creating genuine first-in-class potential.
+
+3. INVESTMENT HIGHLIGHTS
+────────────────────────
+  ✓ First-in-class CDK12/13 dual inhibitor with clean selectivity profile
+  ✓ Phase 1 data: 38% ORR in biomarker-selected NSCLC cohort (n=42)
+  ✓ Granted FDA Fast Track designation (Dec 2024)
+  ✓ Composition-of-matter patents through 2041 (US) / 2040 (EU)
+  ✓ Experienced management: CEO (2 prior FDA approvals), CSO (ex-Novartis)
+  ✓ Strategic partnership with Roche for companion diagnostic co-development
+  ✓ Manufacturing: GMP-ready CMO agreement with Lonza (Basel)
+
+4. LEAD ASSET: NVC-4019
+────────────────────────
+Mechanism:      Selective dual CDK12/CDK13 kinase inhibitor
+Administration: Oral, once-daily, 200mg tablet
+Indication 1:  2L+ NSCLC with CDK12-loss biomarker
+Indication 2:  2L+ TNBC (biomarker-selected)
+Indication 3:  Prostate cancer (exploratory, preclinical)
+
+Phase 1 Data Summary (ASCO 2025 poster):
+  • Dose-limiting toxicity: None observed at therapeutic dose (200mg)
+  • MTD not reached; RP2D established at 200mg QD
+  • ORR (NSCLC biomarker+): 38% (16/42), DCR: 71% (30/42)
+  • Median PFS (NSCLC): 7.2 months (vs. 3.1 months historical 2L docetaxel)
+  • Grade 3+ AEs: 12% (neutropenia 7%, thrombocytopenia 5%)
+  • No cardiac signals, no dose-dependent hepatotoxicity
+
+5. COMPETITIVE LANDSCAPE
+─────────────────────────
+  Company            Target      Phase    Differentiation vs NVC-4019
+  ─────────────────────────────────────────────────────────────────────
+  Pfizer (PF-07104091) CDK7      Ph 2     Different target; NVC-4019 more
+                                           selective for CDK12/13 axis
+  Syros Pharma (SY-5609) CDK7    Ph 2     CDK7 only; overlapping but
+                                           NVC-4019 has distinct biomarker
+  Vincerx (VIP236)      CDK12    Ph 1     Degrader approach; NVC-4019 is
+                                           reversible inhibitor (safety)
+  No approved CDK12/13 therapy currently on market.
+
+6. FINANCIAL OVERVIEW
+─────────────────────
+Funding History:
+  Round       Date       Amount     Key Investors
+  ───────────────────────────────────────────────────
+  Seed        2018       $8M        Atlas Venture, Flagship
+  Series A    2020       $42M       Orbimed, RA Capital
+  Series B    2023       $165M      Sofinnova, Deerfield, existing
+
+Current Position (Q4 2025):
+  Cash & equivalents:      $78M
+  Monthly burn rate:       $5.8M
+  Runway at current burn:  ~13.5 months
+  Series C target:         $120M → extends runway to Q2 2028
+
+Projected Milestones to Fund:
+  • Phase 2a NSCLC interim readout (Q3 2026)
+  • Phase 2a TNBC enrollment completion (Q4 2026)
+  • Phase 2b design & FDA EOP2 meeting (Q1 2027)
+  • IND filing for prostate indication (Q2 2027)
+
+7. TRANSACTION TERMS
+─────────────────────
+Series C lead: [Undisclosed top-tier healthcare fund]
+Pre-money valuation: $680M
+Round size: $120M (may upsize to $150M)
+Structure: Preferred shares with 1x non-participating liquidation pref
+Board seat: 1 new investor board seat
+Pro rata: Standard pro-rata rights for existing investors
+Exclusivity: 30-day exclusive DD period from signed term sheet
+
+8. KEY RISKS & MITIGANTS
+──────────────────────────
+  ⚠ Clinical risk: Phase 2a may not replicate Phase 1 ORR
+    → Mitigant: Biomarker-selected enrollment improves signal
+  ⚠ Competitive risk: Larger pharma could leapfrog with CDK12 programs
+    → Mitigant: 18-month development lead; composition-of-matter IP
+  ⚠ Funding risk: Runway tight if Phase 2 enrollment delayed
+    → Mitigant: Series C provides buffer; Roche partnership defrays Dx costs
+  ⚠ Regulatory risk: Biomarker CDx requirement adds complexity
+    → Mitigant: FDA Fast Track + Roche CDx partnership
+  ⚠ Manufacturing risk: Single CMO dependency
+    → Mitigant: Lonza contract includes tech transfer provisions
+
+════════════════════════════════════════════════════════════════════════
+                         STRICTLY CONFIDENTIAL
+         This document is for qualified institutional investors only.
+════════════════════════════════════════════════════════════════════════

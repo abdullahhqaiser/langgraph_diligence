@@ -1,0 +1,168 @@
+════════════════════════════════════════════════════════════════════════
+                 CLINICAL DEVELOPMENT & PIPELINE PLAN
+                     NovaCure Therapeutics Inc.
+                  NVC-4019 — CDK12/13 Dual Inhibitor
+                      Updated: January 2026
+════════════════════════════════════════════════════════════════════════
+
+1. PIPELINE OVERVIEW
+────────────────────
+  Program      Indication        Phase    Status          Next Milestone
+  ──────────────────────────────────────────────────────────────────────
+  NVC-4019     NSCLC (2L+)       Ph 2a    Enrolling       Interim (Q3 2026)
+  NVC-4019     TNBC (2L+)        Ph 2a    Enrolling       Full enrl (Q4 2026)
+  NVC-4019     mCRPC             Preclnl  IND-enabling    IND filing (Q2 2027)
+  NVC-4019     NSCLC combo       Ph 1b    Planned         FPI (Q1 2027)
+               (+ pembrolizumab)
+  NVC-4019     TNBC combo        Preclnl  Concept stage   Decision (H2 2027)
+               (+ olaparib)
+
+2. PHASE 1 FIRST-IN-HUMAN STUDY (NVC-4019-001)
+───────────────────────────────────────────────
+Study Design:
+  • 3+3 dose escalation followed by expansion cohorts
+  • Dose levels: 25mg, 50mg, 100mg, 150mg, 200mg, 300mg QD
+  • N = 78 evaluable patients (dose escalation + expansion)
+  • All-comer solid tumors (dose escalation); biomarker-selected
+    NSCLC + TNBC (expansion)
+
+Key Results (data cut: October 2025):
+  Dose (QD)   N     ORR      DCR      Median PFS   Grade 3+ AE
+  ────────────────────────────────────────────────────────────────
+  25mg        6     0%       33%      1.8 mo       0%
+  50mg        6     0%       50%      2.4 mo       0%
+  100mg       8     13%      63%      3.8 mo       0%
+  150mg       12    17%      67%      5.1 mo       8%
+  200mg       24    33%      71%      7.0 mo       12%
+  300mg       6     33%      67%      6.8 mo       33%
+
+  → RP2D selected: 200mg QD (best efficacy/safety balance)
+  → MTD: 300mg (DLTs: G3 neutropenia 2/6, G3 thrombocytopenia 1/6)
+
+Biomarker-Selected NSCLC Expansion (200mg, n=42):
+  • ORR: 38% (16/42) — all partial responses
+  • DCR: 71% (30/42)
+  • Median PFS: 7.2 months (95% CI: 5.1 – 9.8)
+  • Median DOR: 8.4 months (ongoing in 9/16 responders)
+
+Biomarker-Selected TNBC Expansion (200mg, n=18):
+  • ORR: 28% (5/18)
+  • DCR: 61% (11/18)
+  • Median PFS: 5.8 months (95% CI: 3.2 – 8.1)
+
+3. PHASE 2a REGISTRATIONAL STUDY (NVC-4019-002)
+────────────────────────────────────────────────
+Study Title: "CLARITY-1: A Phase 2a, Open-Label, Multi-Center Study of
+NVC-4019 in CDK12-Low Advanced Solid Tumors"
+
+Design:
+  • Two-arm, biomarker-selected, single-agent
+  • Arm A: NSCLC 2L+ (post platinum + checkpoint inhibitor)
+  • Arm B: TNBC 2L+ (post taxane + checkpoint inhibitor)
+  • Primary endpoint: ORR by BICR (RECIST 1.1)
+  • Secondary: PFS, OS, DOR, safety, PROs, biomarker correlation
+  • Target enrollment: 120 patients (80 NSCLC, 40 TNBC)
+  • Sites: 35 centers across US, EU, Australia
+
+  ⚠ Enrollment challenge: CDK12-low biomarker prevalence is ~12-18%
+    of screened patients. Pre-screening program in place with 15 labs.
+
+Timeline:
+  First patient in:        March 2026
+  Interim analysis:        Q3 2026 (30% events, NSCLC arm)
+  Full enrollment:         Q4 2026
+  Primary analysis:        Q2 2027
+  FDA EOP2 meeting:        Q3 2027
+
+Success Criteria:
+  • NSCLC: ORR ≥25% (historical 2L docetaxel ORR: 10-15%)
+  • TNBC: ORR ≥20% (historical sacituzumab: 22%, but CDK12-low enriched)
+  • To support Accelerated Approval: ORR + DOR sufficient under Fast Track
+
+4. PLANNED COMBINATION STUDY (NVC-4019-003)
+────────────────────────────────────────────
+Study: "NVC-4019 + Pembrolizumab in CDK12-Low NSCLC"
+
+Rationale:
+  CDK12 inhibition induces tandem duplications → neoantigens
+  → enhanced anti-tumor immunity synergizing with anti-PD-1.
+
+Design:
+  • Phase 1b dose escalation + expansion
+  • NVC-4019 100mg/150mg/200mg QD + pembro 200mg Q3W
+  • Target: 45 patients
+  • Primary: Safety, RP2D of combination
+  • Secondary: ORR, PFS
+
+Timeline:
+  IND amendment:           Q4 2026
+  First patient in:        Q1 2027
+  Dose escalation:         Q1-Q3 2027
+  Expansion:               Q4 2027 onwards
+
+5. CLINICAL TRIAL DESIGN ASSESSMENT
+────────────────────────────────────
+5.1 Design Strengths
+  ✓ Biomarker-selected population (higher signal-to-noise)
+  ✓ Fast Track designation enables rolling submission
+  ✓ Open-label single-arm acceptable for accelerated approval
+  ✓ BICR for primary endpoint (regulatory quality)
+  ✓ Multi-center (35 sites) reduces single-site bias
+
+5.2 Design Risks
+  ⚠ Single-arm design: No randomized comparator; confirmatory
+    trial (Ph 3) needed for full approval
+  ⚠ Biomarker prevalence: 12-18% screen-positive rate may cause
+    enrollment delays (screen-to-enroll ratio ~6:1)
+  ⚠ CDx readiness: Companion diagnostic must be validated
+    concurrently; any CDx delay → regulatory delay
+  ⚠ Small TNBC arm (n=40): May be underpowered for subgroup
+    analyses; FDA may require larger confirmatory cohort
+
+5.3 Trial Design vs. Norms
+  Parameter            NVC-4019-002      Typical Oncology Ph 2
+  ───────────────────────────────────────────────────────────────
+  Sample size          120               80-200 (adequate)
+  Primary endpoint     ORR (BICR)        Standard
+  Enrollment timeline  ~8 months         12-18 months (faster due
+                                         to biomarker pre-screen)
+  # of sites           35                20-40 (adequate)
+  CDx requirement      Yes               Increasingly common
+
+6. DEVELOPMENT TIMELINE THROUGH NDA
+────────────────────────────────────
+  2026 Q1    CLARITY-1 FPI (NSCLC + TNBC)
+  2026 Q3    Phase 2a interim readout (NSCLC)
+  2026 Q4    Full enrollment; prostate IND-enabling studies complete
+  2027 Q1    Combo study FPI (NVC-4019 + pembro)
+  2027 Q2    Phase 2a primary analysis; prostate IND filing
+  2027 Q3    FDA EOP2 meeting
+  2027 Q4    Phase 3 design agreement (if confirmatory needed)
+  2028 Q1    Rolling sBLA/NDA submission (if AA pathway)
+  2028 Q3    Potential Accelerated Approval (NSCLC)
+  2028 Q4    Combo study data; prostate Phase 2 initiation
+  2029 H2    Phase 3 confirmatory results (if required)
+  2030 H1    Full approval (NSCLC); TNBC supplemental filing
+
+  ⚠ Critical path risk: Any Phase 2a enrollment delay >3 months
+    pushes NDA filing into 2029 and jeopardizes fundraising timeline.
+
+7. DEVELOPMENT RISK SCORE
+─────────────────────────
+  Factor                         Score (1-5)   Weight   Weighted
+  ────────────────────────────────────────────────────────────────
+  Phase transition probability   3.5           30%      1.05
+  Biomarker strategy maturity    4.0           20%      0.80
+  Trial design quality           4.0           15%      0.60
+  Enrollment feasibility         2.5           15%      0.38
+  Regulatory pathway clarity     4.5           10%      0.45
+  CMC readiness                  4.0           10%      0.40
+  ────────────────────────────────────────────────────────────────
+  OVERALL DEVELOPMENT SCORE:                            3.68 / 5.0
+
+  Rating: MODERATE-HIGH CONFIDENCE
+  Key gating risk: Enrollment speed (biomarker prevalence)
+
+════════════════════════════════════════════════════════════════════════
+                         STRICTLY CONFIDENTIAL
+════════════════════════════════════════════════════════════════════════

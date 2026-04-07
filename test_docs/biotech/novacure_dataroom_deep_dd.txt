@@ -1,0 +1,250 @@
+════════════════════════════════════════════════════════════════════════
+                   FULL DATAROOM — DEEP DD PACKAGE
+                    NovaCure Therapeutics Inc.
+             Compiled for Investor Deep Due Diligence
+                        January 2026
+════════════════════════════════════════════════════════════════════════
+
+SECTION A: CLINICAL TRIAL PROTOCOLS & DATA
+─────────────────────────────────────────
+
+A.1 Study NVC-4019-001 — Phase 1 Detailed Protocol Summary
+Protocol Number:    NVC-4019-001
+IND Number:         IND 156789
+ClinicalTrials.gov: NCT05XXXXXX
+Sponsor:            NovaCure Therapeutics Inc.
+Phase:              Phase 1 (dose escalation + expansion)
+Design:             Open-label, multicenter, 3+3 dose escalation
+Population:         Advanced solid tumors (dose escalation);
+                    CDK12-low NSCLC/TNBC (expansion)
+Primary Objective:  Safety, tolerability, MTD, RP2D
+Secondary:          PK, PD (pSer2 RNA Pol II), preliminary efficacy
+
+Dose Escalation Results (Detailed):
+  Cohort 1 (25mg): 6 patients, 0 DLTs. PK: Cmax 45ng/mL, t1/2 6.2h
+  Cohort 2 (50mg): 6 patients, 0 DLTs. PK: Cmax 92ng/mL, t1/2 6.5h
+  Cohort 3 (100mg): 8 patients, 0 DLTs. PK: Cmax 198ng/mL, t1/2 7.1h
+  Cohort 4 (150mg): 12 patients, 0 DLTs. PK: Cmax 310ng/mL, t1/2 7.4h
+  Cohort 5 (200mg): 24 patients, 0 DLTs. PK: Cmax 425ng/mL, t1/2 7.8h
+    → RP2D selected based on PK/PD modeling + efficacy signal
+  Cohort 6 (300mg): 6 patients, 2 DLTs (G3 neutropenia, G3 TCP)
+    → MTD established; not pursued further
+
+Pharmacodynamic Biomarker Data:
+  Dose    pSer2 Pol II reduction    CDK12 target engagement
+  ─────────────────────────────────────────────────────────
+  25mg    15%                        Minimal
+  50mg    28%                        Partial
+  100mg   52%                        Moderate
+  150mg   71%                        Near-complete
+  200mg   85%                        Complete
+  300mg   89%                        Complete (but toxicity)
+
+  → 200mg achieves >80% target engagement with acceptable safety.
+
+A.2 Adverse Event Detailed Summary (All Grades, 200mg Expansion)
+  Event                   All Grades   Grade 3+   Drug-Related
+  ─────────────────────────────────────────────────────────────
+  Fatigue                 45%          2%         38%
+  Nausea                  32%          0%         28%
+  Neutropenia             22%          7%         22%
+  Thrombocytopenia        15%          5%         15%
+  Diarrhea                18%          0%         12%
+  Anemia                  12%          2%         10%
+  Elevated ALT            8%           0%         8%
+  Rash                    7%           0%         5%
+  Arthralgia              5%           0%         2%
+
+  SAEs (Serious Adverse Events): 3/66 (4.5%)
+    - G4 neutropenia (1) — resolved with G-CSF, drug held 1 week
+    - G3 febrile neutropenia (1) — hospitalization, resolved
+    - G3 pneumonitis (1) — possibly drug-related, resolved with steroids
+
+  ⚠ Pneumonitis signal: 1 case in 66 patients (1.5%). Must be monitored
+    closely in Phase 2a. If rate exceeds 3%, may require protocol amendment.
+
+  Deaths on study: 2 (both disease progression, not drug-related)
+
+A.3 Biomarker Correlation Analysis
+  CDK12 IHC H-score cutoff analysis:
+    H-score < 50:   ORR 47% (n=19)
+    H-score 50-100: ORR 32% (n=28)
+    H-score 100-150: ORR 15% (n=13)
+    H-score > 150:  ORR 8% (n=12)
+
+  → Optimal cutoff: H-score <100 (ORR 38% vs. 12%, p < 0.001)
+  → CDx threshold validated at H-score <100
+
+A.4 Response Duration and Waterfall Plot Data
+  Patient    Tumor Type    CDK12 Status    Best Change    Duration (mo)
+  ─────────────────────────────────────────────────────────────────────
+  PT-001     NSCLC         H-score 22      -62%           12.4 (ongoing)
+  PT-003     NSCLC         H-score 45      -48%           9.8 (ongoing)
+  PT-007     TNBC          H-score 18      -55%           8.2 (ongoing)
+  PT-012     NSCLC         H-score 67      -42%           7.1
+  PT-015     NSCLC         H-score 31      -38%           11.2 (ongoing)
+  PT-018     TNBC          H-score 55      -35%           6.4
+  PT-022     NSCLC         H-score 88      -31%           5.8
+  PT-025     NSCLC         H-score 40      -52%           10.1 (ongoing)
+  PT-028     TNBC          H-score 72      -28%           4.9
+  PT-031     NSCLC         H-score 33      -45%           8.7 (ongoing)
+  [... additional 11 responders ...]
+
+  Median DOR: 8.4 months (95% CI: 5.9 - NR)
+  9 of 21 responses still ongoing at data cut
+
+─────────────────────────────────────────
+
+SECTION B: PATENT CLAIM MAPPING
+─────────────────────────────────
+
+B.1 US Patent 11,XXX,XXX (P1 — Composition of Matter)
+  
+  Independent Claim 1:
+  "A compound of Formula I [NVC-4019 structure], or a pharmaceutically
+  acceptable salt thereof, wherein the compound selectively inhibits
+  CDK12 with an IC50 of less than 50 nM and has a selectivity ratio
+  of greater than 100-fold over CDK9."
+
+  Independent Claim 12:
+  "A pharmaceutical composition comprising a therapeutically effective
+  amount of the compound of Claim 1 and a pharmaceutically acceptable
+  carrier."
+
+  Key dependent claims:
+  - Claim 3: The hydrochloride salt form
+  - Claim 5: The free base crystalline Form A
+  - Claim 8: Oral dosage form (tablet) comprising 50-300mg
+  - Claim 15: Wherein the carrier includes lactose monohydrate
+  - Claim 22: Use for treatment of CDK12-loss solid tumors
+
+  Prior art analysis:
+    Closest prior art: THZ531 (covalent CDK12 inhibitor, Olson et al. 2018)
+    Distinction: NVC-4019 is reversible (different binding mode);
+    THZ531 is covalent (CYS1039 warhead). Different chemical scaffold.
+    Patentability: STRONG — no anticipation or obvious combination.
+
+B.2 Freedom to Operate — Dana-Farber Patent Analysis
+
+  US Patent 10,XXX,XXX (Dana-Farber):
+  "A method of identifying a patient likely to respond to CDK12-targeted
+  therapy, comprising: (a) obtaining a tumor sample, (b) determining
+  CDK12 protein expression by immunohistochemistry, (c) classifying the
+  patient as CDK12-low if H-score is below a predetermined threshold."
+
+  Overlap with NovaCure P4 claims:
+  - Both claim IHC-based CDK12 assessment
+  - Dana-Farber claim is broadly written (any CDK12-targeted therapy)
+  - NovaCure P4 claims are more specific (NVC-4019 + genomic panel)
+
+  Risk assessment:
+  - Infringement probability: 40-50% (if using IHC alone)
+  - Mitigation options:
+    (a) License from Dana-Farber: Est. $2-5M upfront + royalty
+    (b) Design around: Use alternative scoring (ISH, RNA-based)
+    (c) Challenge: Argue patent ineligibility under Alice/Mayo
+
+  Recommendation: Open licensing discussion with Dana-Farber before
+  CDx PMA filing. Budget $3-5M for IP clearance.
+
+─────────────────────────────────────────
+
+SECTION C: LITERATURE SYNTHESIS
+───────────────────────────────
+
+C.1 CDK12 Biology — Evidence Quality Assessment
+
+  Publication                       Year   Impact Factor   Key Finding
+  ─────────────────────────────────────────────────────────────────────
+  Dubbury et al., Science           2021   63.7           CDK12 regulates
+                                                          DDR gene expression
+  Wu et al., Cell                   2018   66.9           CDK12 loss defines
+                                                          immunogenic prostate
+  Quereda et al., Cancer Cell       2019   38.6           CDK12/13 as TNBC
+                                                          vulnerability
+  Bajrami et al., Cancer Res        2014   13.3           CDK12 loss → PARP
+                                                          sensitivity
+  Iniguez et al., Cell Reports      2018   9.9            CDK12 in Ewing
+                                                          sarcoma biology
+  Chirackal et al., Nature Comm     2022   17.7           CDK12 + immunotherapy
+                                                          synergy in NSCLC
+
+  Evidence strength: STRONG for CDK12 as oncology target.
+  12+ publications in IF >10 journals over 8 years.
+  Multiple independent groups validate mechanism.
+
+C.2 Competitive Intelligence — CDK12 Clinical Programs
+
+  As of January 2026:
+  - NO approved CDK12-specific therapy exists globally
+  - Vincerx VIP236 (CDK12 degrader): Phase 1, dose escalation ongoing
+    → Preliminary data: ORR 15% all-comers (no biomarker selection)
+    → NovaCure advantage: Biomarker-selected ORR 38% >> 15%
+  - Academic studies: 4 investigator-initiated trials with covalent
+    CDK12 tool compounds; poor tolerability reported (off-target CDK9)
+
+─────────────────────────────────────────
+
+SECTION D: CONTRACTS & AGREEMENTS
+─────────────────────────────────
+
+D.1 Roche/Ventana Companion Diagnostics Partnership
+  • Signed: June 2023
+  • Term: 7 years (through 2030) with 2x 3-year extensions
+  • Scope: Co-development of CDK12 IHC + NGS companion diagnostic
+  • Financial terms:
+    - Roche funds CDx development ($15M estimated total)
+    - NovaCure pays $2M milestone at PMA submission
+    - Royalty: NovaCure pays 5% of NVC-4019 net sales (CDx-linked)
+    - Roche receives exclusive rights to manufacture/sell CDx kit
+  • ⚠ Termination: Roche may terminate with 12 months notice if
+    NVC-4019 fails Phase 2. NovaCure retains CDx data + can seek
+    alternative partner.
+
+D.2 Lonza CMO Agreement (API Manufacturing)
+  • Signed: March 2024
+  • Term: 5 years, auto-renew
+  • Scope: GMP manufacturing of NVC-4019 API at Basel facility
+  • Capacity: Up to 500kg/year (sufficient for commercial launch)
+  • Pricing: $XXX/kg (confidential); competitive with market rates
+  • ⚠ Single-source: No backup CMO currently in place
+  • Tech transfer clause: NovaCure may transfer process to second site
+    with 6-month notice and $1.5M technology transfer fee
+
+D.3 Key Employment Agreements (Summary)
+  • All C-suite: 4-year vesting, 1-year cliff
+  • Dr. Sarah Chen: $425K base + 50% target bonus + 1.2M options
+  • Dr. Marcus Hoffman: $380K base + 40% target bonus + 1.0M options
+  • IP assignment: All employees sign IP assignment agreements
+  • Non-solicitation: 12-month post-termination (all employees)
+
+─────────────────────────────────────────
+
+SECTION E: RISK CROSS-CHECK MATRIX
+───────────────────────────────────
+
+  Risk Category        Specific Risk             Severity  Mitigation
+  ─────────────────────────────────────────────────────────────────────
+  CLINICAL             Phase 2a ORR <25%         HIGH      Biomarker enrichment
+  CLINICAL             Pneumonitis signal >3%    MEDIUM    Monitoring protocol
+  CLINICAL             Enrollment delay >3mo     MEDIUM    Pre-screen program
+  REGULATORY           CDx PMA delay             MEDIUM    Roche partnership
+  REGULATORY           AA pathway denied         HIGH      EOP2 meeting Q3 2027
+  IP                   Dana-Farber CDx patent    MEDIUM    License negotiation
+  IP                   P5 combo claims rejected  LOW       Non-critical IP
+  FINANCIAL            Runway <18mo post-Series C MEDIUM   Licensing/M&A backup
+  FINANCIAL            Down-round risk           LOW       Strong data profile
+  MANUFACTURING        Lonza single-source       MEDIUM    Tech transfer planned
+  TEAM                 CSO key-man departure     HIGH      VP Biology hire
+  COMMERCIAL           Build vs. buy decision    MEDIUM    Multiple options
+  MARKET               CDK7 competitor leapfrog  LOW       Different mechanism
+
+  Top 3 risks requiring immediate attention:
+  1. Phase 2a ORR outcome (uncontrollable; mitigated by enrichment)
+  2. CSO key-man risk (controllable; hire VP Biology immediately)
+  3. Funding runway sufficiency (controllable; initiate partner discussions)
+
+════════════════════════════════════════════════════════════════════════
+                         STRICTLY CONFIDENTIAL
+         This document contains material non-public information.
+════════════════════════════════════════════════════════════════════════

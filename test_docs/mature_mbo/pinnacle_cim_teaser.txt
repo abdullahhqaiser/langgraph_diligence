@@ -1,0 +1,155 @@
+════════════════════════════════════════════════════════════════════════
+                  CONFIDENTIAL INFORMATION MEMORANDUM
+                    Pinnacle Precision Engineering
+             Management Buyout — Sponsor-Backed Acquisition
+                       Prepared: January 2026
+════════════════════════════════════════════════════════════════════════
+
+1. EXECUTIVE SUMMARY
+────────────────────
+Pinnacle Precision Engineering ("PPE" or "the Company") is a leading
+UK-based manufacturer of precision-machined components for the aerospace
+and defense (A&D) and medical device sectors. The current owner, the
+founding family (the Hargreaves), is seeking a management buyout with
+PE sponsor backing to fund the next phase of growth.
+
+  Legal Name:            Pinnacle Precision Engineering Ltd.
+  Incorporated:          England & Wales (1987)
+  Headquarters:          Sheffield, UK
+  Employees:             412 FTE (340 production, 72 office/management)
+  Revenue (FY2025A):     £68.2M
+  Adj. EBITDA (FY2025A): £14.8M (21.7% margin)
+  Asking Price:          £105M enterprise value (7.1x LTM EBITDA)
+  Transaction Type:      Management Buyout (MBO) with PE sponsor
+
+2. BUSINESS DESCRIPTION
+───────────────────────
+PPE manufactures high-precision CNC-machined components, assemblies,
+and sub-systems for tier-1 aerospace OEMs and medical device companies.
+The company operates from two facilities in Sheffield, UK:
+
+  Facility 1 (Attercliffe): 65,000 sq ft — Aerospace production
+  Facility 2 (Meadowhall):  28,000 sq ft — Medical device production
+
+Product mix:
+  • Aerospace structural components:     42% of revenue
+  • Aero engine parts (Rolls-Royce):     23% of revenue
+  • Medical device components:            22% of revenue
+  • Defense electronics housings:         8% of revenue
+  • Other precision machining:            5% of revenue
+
+Key certifications:
+  ✓ AS9100 Rev D (aerospace quality management)
+  ✓ ISO 13485 (medical device quality management)
+  ✓ NADCAP (special processes — heat treatment, NDT)
+  ✓ SC21 Gold Award (supply chain excellence)
+  ✓ UK MOD approved supplier
+
+3. OWNERSHIP & TRANSACTION RATIONALE
+─────────────────────────────────────
+Current ownership:
+  Robert Hargreaves (founder, Chairman): 60%
+  Margaret Hargreaves (spouse):          20%
+  James Hargreaves (son, MD):            20%
+
+Transaction rationale:
+  • Robert Hargreaves (age 72) wishes to retire
+  • Margaret Hargreaves to fully exit
+  • James Hargreaves (age 44) to roll over ~30% of proceeds
+  • Management team wishes to buy out with PE sponsor support
+  • Company has plateaued at £65-70M revenue; needs capital + expertise
+    for international expansion and M&A bolt-on strategy
+
+  ⚠ Seller motivation: Primarily succession planning. No distress.
+    Robert's health is reportedly good but planning horizon is 12-24 months.
+
+4. FINANCIAL SUMMARY
+────────────────────
+  (£ millions)          FY2022A   FY2023A   FY2024A   FY2025A   FY2026B
+  ─────────────────────────────────────────────────────────────────────
+  Revenue               £52.1     £58.4     £63.7     £68.2     £74.5
+  Growth                --        12.1%     9.1%      7.1%      9.2%
+  Gross Profit          £18.2     £21.0     £23.5     £25.6     £28.2
+  Gross Margin          34.9%     36.0%     36.9%     37.5%     37.9%
+  Adj. EBITDA           £9.8      £11.9     £13.4     £14.8     £17.0
+  EBITDA Margin         18.8%     20.4%     21.0%     21.7%     22.8%
+  Capex                 (£2.8)    (£3.5)    (£4.1)    (£5.2)    (£5.5)
+  FCF (EBITDA-Capex)    £7.0      £8.4      £9.3      £9.6      £11.5
+
+  EBITDA Adjustments (FY2025A):
+    Reported EBITDA:           £12.2M
+    + Owner salary/benefits:   £1.2M (Robert, above-market)
+    + One-off legal costs:     £0.6M (patent dispute, settled)
+    + Facility move costs:     £0.4M (Meadowhall expansion)
+    + Related-party rent:      £0.4M (above-market lease to family trust)
+    = Adjusted EBITDA:         £14.8M
+
+  ⚠ EBITDA adjustments total £2.6M (17.6% of adjusted EBITDA).
+    Buyer should validate each adjustment during QoE process.
+
+5. KEY CUSTOMERS
+────────────────
+  Customer                  Revenue (£M)   % of Total   Relationship
+  ─────────────────────────────────────────────────────────────────────
+  Rolls-Royce plc           £15.7          23%          Since 1994
+  Airbus (via tier-1)       £10.2          15%          Since 2008
+  BAE Systems               £8.2           12%          Since 2001
+  Smith+Nephew              £7.5           11%          Since 2015
+  Safran (France)           £5.8           9%           Since 2019
+  GE Aerospace              £4.1           6%           Since 2021
+  Medtronic                 £3.4           5%           Since 2018
+  Other (28 customers)      £13.3          19%
+  ─────────────────────────────────────────────────────────────────────
+  TOTAL                     £68.2          100%
+
+  ⚠ Customer concentration: Top 3 = 50% of revenue. Top customer
+    (Rolls-Royce) = 23%. Loss of Rolls-Royce would be critical.
+    Rolls-Royce LTA in place through 2029 (4 years remaining).
+
+6. GROWTH STRATEGY
+──────────────────
+Management's value creation plan:
+  (a) Organic growth: Win new A&D programs (F-35 supply chain, Tempest)
+  (b) Medical expansion: Double medical device revenue (£15M → £30M)
+  (c) International: Open sales office in Toulouse (Airbus proximity)
+  (d) Bolt-on M&A: Acquire 2-3 complementary UK precision machining firms
+  (e) Operational: Invest in 5-axis CNC machines, reduce scrap by 30%
+  (f) Digital: Implement Industry 4.0 monitoring across production
+
+Revenue bridge (FY2025A → FY2030P):
+  Organic A&D growth:    +£12M (CAGR 4%)
+  Medical expansion:     +£15M (CAGR 18%)
+  Bolt-on M&A:           +£20M (2 acquisitions)
+  FY2030P target:        £115M (11% CAGR)
+  FY2030P EBITDA target: £29M (25% margin)
+
+7. TRANSACTION STRUCTURE
+────────────────────────
+Proposed structure:
+  Enterprise value:       £105M (7.1x LTM Adjusted EBITDA)
+  Senior debt:            £52.5M (3.5x EBITDA) — term loan + RCF
+  Mezzanine debt:         £15.0M (1.0x EBITDA) — bullet, 12% cash pay
+  Sponsor equity:         £30.0M
+  Management rollover:     £7.5M (James Hargreaves + 4 senior managers)
+  Total sources:          £105.0M
+
+  Leverage at entry:      4.5x EBITDA (3.5x senior + 1.0x mezz)
+  Equity check:           £37.5M (35.7% of EV)
+
+  ⚠ Leverage is moderate for UK mid-market MBO. Debt serviceability
+    depends on EBITDA stability and FCF generation.
+
+8. KEY RISKS
+────────────
+  ⚠ Customer concentration — 50% of revenue from top 3 customers
+  ⚠ Key-man risk — James Hargreaves is central to customer relationships
+  ⚠ Aerospace cycle — Sector is cyclical; downturn could hit revenue 15%+
+  ⚠ Supply chain — Specialty metals (titanium, Inconel) subject to
+    price volatility and geopolitical supply risk
+  ⚠ Post-Brexit trade — UK-EU friction on cross-border component flows
+  ⚠ Skilled labor — CNC machinists are scarce; apprentice pipeline needed
+
+════════════════════════════════════════════════════════════════════════
+                STRICTLY CONFIDENTIAL — FOR QUALIFIED
+                  INSTITUTIONAL BUYERS ONLY
+════════════════════════════════════════════════════════════════════════

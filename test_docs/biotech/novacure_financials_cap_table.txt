@@ -1,0 +1,200 @@
+════════════════════════════════════════════════════════════════════════
+               FINANCIAL MODEL & FUNDING ANALYSIS
+                   NovaCure Therapeutics Inc.
+                    Prepared: January 2026
+════════════════════════════════════════════════════════════════════════
+
+1. CAPITALIZATION TABLE (PRE-SERIES C)
+──────────────────────────────────────
+  Shareholder           Shares (M)   % Ownership   Investment
+  ────────────────────────────────────────────────────────────
+  Founders & Employees  12.0         24.0%         $0.5M (exercise)
+    Dr. Sarah Chen       4.5          9.0%
+    Dr. Marcus Hoffman   3.8          7.6%
+    ESOP (allocated)     2.5          5.0%
+    ESOP (unallocated)   1.2          2.4%
+  Seed (Atlas, Flagship) 4.0          8.0%         $8M
+  Series A Preferred     10.0         20.0%        $42M
+    Orbimed              6.0         12.0%
+    RA Capital           4.0          8.0%
+  Series B Preferred     24.0         48.0%        $165M
+    Sofinnova            10.0         20.0%
+    Deerfield            8.0          16.0%
+    Orbimed (follow-on)  4.0          8.0%
+    RA Capital (follow)  2.0          4.0%
+  ────────────────────────────────────────────────────────────
+  TOTAL PRE-SERIES C     50.0         100.0%       $215.5M
+
+  Last round valuation (Series B): $340M post-money
+  Current implied valuation:        $420M (secondary market)
+  Series C proposed pre-money:      $680M (1.62x markup from Series B)
+
+2. SERIES C TERMS & PRO-FORMA CAP TABLE
+─────────────────────────────────────────
+Series C Terms:
+  Round size:          $120M
+  Pre-money valuation: $680M
+  Price per share:     $13.60 (vs. Series B: $6.88)
+  New shares issued:   8.82M
+  Post-money:          $800M
+  New investor(s):     [Lead TBD] + existing pro-rata
+
+Pro-Forma Cap Table (Post-Series C):
+  Shareholder           Shares (M)   % Ownership
+  ────────────────────────────────────────────────
+  Founders & Employees  12.0         20.4%
+  Seed investors         4.0          6.8%
+  Series A Preferred    10.0         17.0%
+  Series B Preferred    24.0         40.8%
+  Series C Preferred     8.82        15.0%
+  ────────────────────────────────────────────────
+  TOTAL                 58.82        100.0%
+
+  Founder dilution: 24.0% → 20.4% (3.6 pp dilution)
+  Series B dilution: 48.0% → 40.8% (7.2 pp dilution)
+
+3. BURN RATE & RUNWAY ANALYSIS
+──────────────────────────────
+3.1 Historical Monthly Burn
+
+  Quarter    Cash Start   Spend    Cash End    Monthly Burn
+  ────────────────────────────────────────────────────────────
+  Q1 2025    $125M        $14.4M   $110.6M     $4.8M
+  Q2 2025    $110.6M      $15.6M   $95.0M      $5.2M
+  Q3 2025    $95.0M       $16.8M   $78.2M      $5.6M
+  Q4 2025    $78.2M       $17.4M   $60.8M*     $5.8M
+
+  *Estimated Q4 close; actual may vary by ±$2M.
+
+  Burn trajectory: Increasing $0.3-0.4M/quarter (Phase 2a ramp).
+
+3.2 Forward Burn Projections
+
+  Period       Monthly Burn   Key Drivers
+  ────────────────────────────────────────────────────────────
+  Q1 2026      $6.0M          Phase 2a site activation costs
+  Q2 2026      $6.5M          Full enrollment + new hires
+  Q3 2026      $7.0M          Peak clinical spending
+  Q4 2026      $7.0M          Sustained enrollment period
+  2027 avg     $8.0M          Combo study + regulatory prep
+  2028 avg     $10.0M         NDA activities + pre-commercial
+
+3.3 Runway Analysis
+
+  Scenario               Cash Available   Runway (months)   End Date
+  ────────────────────────────────────────────────────────────────────
+  NO Series C            $60.8M           ~10 months        Oct 2026
+  Series C ($120M)       $180.8M          ~24 months        Feb 2028
+  Series C ($150M)       $210.8M          ~28 months        Jun 2028
+  Series C + milestone   $230.8M          ~30 months        Aug 2028
+  payment ($20M Roche)
+
+  ⚠ Without Series C, company runs out of cash before Phase 2a
+    interim readout (Q3 2026). This is EXISTENTIAL urgency.
+
+  ⚠ Even with $120M Series C, runway extends only to Q1 2028.
+    Company will need either:
+    (a) Series D ($100-200M) by H2 2027, OR
+    (b) Licensing deal / M&A before cash runs out, OR
+    (c) Accelerated Approval and commercial revenue by Q3 2028
+
+4. INCOME STATEMENT (ACTUAL + PROJECTED)
+──────────────────────────────────────────
+  ($ millions)           2023A   2024A   2025E   2026P   2027P   2028P
+  ──────────────────────────────────────────────────────────────────────
+  Revenue
+    Product sales        $0      $0      $0      $0      $0      $50
+    Roche partnership    $0      $5      $8      $10     $12     $12
+    Grant income         $1.2    $0.8    $0.5    $0      $0      $0
+  Total Revenue          $1.2    $5.8    $8.5    $10     $12     $62
+
+  Operating Expenses
+    R&D                  $28     $38     $48     $58     $68     $72
+    G&A                  $8      $12     $16     $20     $24     $28
+    Commercial           $0      $0      $0      $4      $15     $35
+  Total OpEx             $36     $50     $64     $82     $107    $135
+
+  Operating Loss         ($34.8) ($44.2) ($55.5) ($72)   ($95)   ($73)
+  Interest income        $2.0    $3.5    $4.0    $4.5    $3.5    $2.0
+  Net Loss               ($32.8) ($40.7) ($51.5) ($67.5) ($91.5) ($71)
+  
+  Cash at year-end       $129M   $96M    $61M    $114M*  $22M*   ($49M)*
+  * Post-Series C; 2028 negative = needs additional funding
+
+  ⚠ Company will be EBITDA negative through 2028. Requires $200-300M
+    additional capital beyond Series C to reach profitability.
+
+5. KEY FINANCIAL METRICS & RATIOS
+──────────────────────────────────
+  Metric                          Value         Benchmark
+  ──────────────────────────────────────────────────────────
+  Cash burn multiple              0.32x         0.5-1.0x (good)
+  Enterprise value / pipeline     $340M/asset   $200-500M (fair)
+  Cost per patient (Phase 1)      $0.6M         $0.5-0.8M (norm)
+  R&D as % of total spend         75%           70-80% (optimal)
+  G&A as % of total spend         25%           20-30% (acceptable)
+  Capital efficiency score        3.2 / 5.0     Top quartile
+
+  Burn multiple = capital invested ($215M) / value created ($680M pre EV)
+  → 0.32x is excellent for clinical-stage biotech.
+
+6. DILUTION & RETURN ANALYSIS
+─────────────────────────────
+6.1 Return Scenarios for Series C Investor ($120M at $680M pre)
+
+  Scenario              Exit Value   Series C Return   IRR (3-year)
+  ──────────────────────────────────────────────────────────────────
+  Phase 2 fail          $150M        0.28x (loss)      N/A
+  Modest data (licen)   $800M        1.50x             14%
+  AA approval           $3.0B        5.63x             78%
+  Full approval (peak)  $6.0B        11.25x            125%
+  Blockbuster           $10.0B       18.75x            168%
+
+  Expected value (probability-weighted):
+    P(fail) = 30% × $150M → $45M
+    P(license) = 25% × $800M → $200M
+    P(AA) = 30% × $3.0B → $900M
+    P(full) = 10% × $6.0B → $600M
+    P(blockbuster) = 5% × $10.0B → $500M
+    EV = $2.245B → 4.2x on $120M at 15% ownership → $337M
+    Risk-adjusted IRR: ~42% (attractive for VC lifecycle fund)
+
+6.2 Sensitivity to Valuation
+  Pre-Money     Entry Multiple   Breakeven Exit   Target Return (3x)
+  ──────────────────────────────────────────────────────────────────
+  $500M         0.93x           $630M            $1,500M
+  $680M (prop)  1.26x           $800M            $2,040M
+  $800M         1.49x           $940M            $2,400M
+
+  ⚠ At $680M pre-money, Series C investor needs $2B+ exit for 3x return.
+    This requires at minimum AA approval pathway to be on track.
+
+7. CAPITAL EFFICIENCY COMPARISON
+────────────────────────────────
+  Company          Capital to Phase 2   Valuation   Efficiency
+  ──────────────────────────────────────────────────────────────
+  NovaCure         $215M                $680M       3.2x
+  Kymera (2020)    $197M                $520M       2.6x
+  Relay Thera      $488M                $1.3B       2.7x
+  Revolution Med   $300M                $900M       3.0x
+  Arvinas (2019)   $250M                $750M       3.0x
+
+  NovaCure compares favorably on capital efficiency.
+
+8. FUNDING RISK MATRIX
+───────────────────────
+  Risk                         Impact    Probability   Mitigation
+  ────────────────────────────────────────────────────────────────
+  Series C fails to close      Critical  Low (15%)     Existing investors
+                                                        likely bridge
+  Post-Series C funding gap    High      Medium (35%)  Licensing deal or
+  (need Series D by 2027)                               M&A provides exit
+  Down-round risk              Medium    Low (20%)     Strong data de-risks
+  Dilution beyond 50% for      Medium    High (65%)    Expected for
+  founders                                              clinical biotech
+  Roche CDx deal cancellation  Medium    Low (10%)     Alternative CDx
+                                                        partners available
+
+════════════════════════════════════════════════════════════════════════
+                         STRICTLY CONFIDENTIAL
+════════════════════════════════════════════════════════════════════════
